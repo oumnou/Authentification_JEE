@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>D:\mine\JEE\authentication\project\target\liberty\wlp</installDirectory>
+    <serverDirectory>D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer</serverDirectory>
+    <userDirectory>D:\mine\JEE\authentication\project\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer</serverOutputDirectory>
+    <serverName>projectServer</serverName>
+    <configDirectory>D:\mine\JEE\authentication\project\src\main\liberty\config</configDirectory>
+    <configFile>D:\mine\JEE\authentication\project\src\main\liberty\config\server.xml</configFile>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>project.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>io.openliberty</groupId>
+        <artifactId>openliberty-runtime</artifactId>
+        <version>24.0.0.1</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\21269\.m2\repository\io\openliberty\openliberty-runtime\24.0.0.1\openliberty-runtime-24.0.0.1.zip</assemblyArchive>
+    <assemblyInstallDirectory>D:\mine\JEE\authentication\project\target\liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+    <projectType>war</projectType>
+    <projectCompileDependency>com.oracle.database.jdbc:ojdbc8:19.3.0.0</projectCompileDependency>
+    <projectCompileDependency>com.oracle.database.jdbc:ucp:19.3.0.0</projectCompileDependency>
+    <projectCompileDependency>com.oracle.database.security:oraclepki:19.3.0.0</projectCompileDependency>
+    <projectCompileDependency>com.oracle.database.security:osdt_cert:19.3.0.0</projectCompileDependency>
+    <projectCompileDependency>com.oracle.database.security:osdt_core:19.3.0.0</projectCompileDependency>
+    <projectCompileDependency>com.oracle.database.ha:simplefan:19.3.0.0</projectCompileDependency>
+    <projectCompileDependency>com.oracle.database.ha:ons:19.3.0.0</projectCompileDependency>
+    <warSourceDirectory>D:\mine\JEE\authentication\project\src\main\webapp</warSourceDirectory>
+</liberty-plugin-config>

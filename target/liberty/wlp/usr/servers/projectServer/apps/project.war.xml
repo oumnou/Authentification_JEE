@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="D:\mine\JEE\authentication\project\src\main\webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="D:\mine\JEE\authentication\project\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="D:\mine\JEE\authentication\project\target\tmp\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>
