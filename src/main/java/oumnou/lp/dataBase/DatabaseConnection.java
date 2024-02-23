@@ -5,12 +5,18 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DatabaseConnection implements Config {
+    private static Connection connexion;
 
-    public static Connection getConnection() throws SQLException {
-        String url = URL; 
-        String username = USER;
-        String password = PASSWO;
-        
-        return DriverManager.getConnection(url, username, password);
+    public static Connection getConnection(){
+
+    if(connexion == null) {
+       
+        try {
+            connexion = DriverManager.getConnection(URL, USER,PASSWO );
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
+    return connexion;
+}
 }

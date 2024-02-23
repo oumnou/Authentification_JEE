@@ -1,4 +1,4 @@
-Cache-WriteTime=1708543240439;21
+Cache-WriteTime=1708631771073;21
 com.ibm.ws.javaee.version/[1.0.0,1.0.200)=file:/D:/mine/JEE/authentication/project/target/liberty/wlp/lib/com.ibm.ws.javaee.version_1.0.85.jar;12@PARALLEL
 com.ibm.websphere.javaee.servlet.3.1/[1.0.0,1.0.200)=file:/D:/mine/JEE/authentication/project/target/liberty/wlp/dev/api/spec/com.ibm.websphere.javaee.servlet.3.1_1.0.85.jar;12@PARALLEL
 io.openliberty.el.internal.cdi/[1.0.0,1.0.200)=file:/D:/mine/JEE/authentication/project/target/liberty/wlp/lib/io.openliberty.el.internal.cdi_1.0.85.jar;12@PARALLEL

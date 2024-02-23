@@ -18,39 +18,47 @@
         </div>
         <div class="col-md-7 col-lg-5 col-xl-5 offset-xl-1">
           <form action="servlet" method="post">
+
+              <!-- name input -->
+              <div class="form-outline mb-4">
+                <input type="text" placeholder="name" name="name" id="form1Example23" class="form-control form-control-lg" />
+              </div>
+
+              <!-- name input -->
+              <div class="form-outline mb-4">
+                <input type="text" placeholder="last_name" name="last_name" id="form1Example23" class="form-control form-control-lg" />
+              </div>
+
+              <!-- username input -->
+              <div class="form-outline mb-4">
+                <input type="text" placeholder="username" name="username" id="form1Example23" class="form-control form-control-lg" />
+              </div>
+
             <!-- Email input -->
             <div class="form-outline mb-4">
-              <input type="email" id="form1Example13" placeholder="Email" class="form-control form-control-lg" />
+              <input type="email" id="form1Example13" name="email" placeholder="Email" class="form-control form-control-lg" />
             </div>
   
             <!-- Password input -->
             <div class="form-outline mb-4">
-              <input type="password" placeholder="Password" id="form1Example23" class="form-control form-control-lg" />
+              <input type="password" placeholder="Password" name="password" id="form1Example23" class="form-control form-control-lg" />
+            </div>
+            <input type="hidden" name="action" value="signup">
+            <% if (request.getAttribute("emailExist") != null) { %>
+              <p style="color: red;">Email Exist</p>
+            <%  } %> 
+
+            <button type="submit" class="btn btn-primary btn-lg btn-block">Sign up</button>
+
+            
+
+             
             </div>
   
-            <div class="d-flex justify-content-around align-items-center mb-4">
-              <!-- Checkbox -->
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="form1Example3" checked />
-                <label class="form-check-label" for="form1Example3"> Remember me </label>
-              </div>
-              <a href="#!">Forgot password?</a>
-            </div>
   
-            <!-- Submit button -->
-            <button type="submit" class="btn btn-primary btn-lg btn-block">Sign in</button>
+         
   
-            <div class="divider d-flex align-items-center my-4">
-              <p class="text-center fw-bold mx-3 mb-0 text-muted">OR</p>
-            </div>
-  
-            <a class="btn btn-primary btn-lg btn-block" style="background-color: #3b5998" href="#!"
-              role="button">
-              <i class="fab fa-facebook-f me-2"></i>Continue with Facebook
-            </a>
-            <a class="btn btn-primary btn-lg btn-block" style="background-color: #55acee" href="#!"
-              role="button">
-              <i class="fab fa-twitter me-2"></i>Continue with Twitter</a>
+            
   
           </form>
         </div>

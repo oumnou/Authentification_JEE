@@ -1,8 +1,0 @@
-
- Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
-------+------+---------------------------+---------------------------+---------------------------
-     0     23 2/21/24, 20:20:00:629 WEST  2/21/24, 20:20:00:696 WEST  java.net.MalformedURLException com.ibm.ws.kernel.launch.internal.ProvisionerImpl 337
-                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.21_20.20.00.0.log
-     1     23 2/21/24, 20:20:00:696 WEST  2/21/24, 20:20:00:707 WEST  java.net.MalformedURLException com.ibm.ws.kernel.launch.internal.ProvisionerImpl checkInstallStatus
-                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.21_20.20.00.1.log
-------+------+---------------------------+---------------------------+---------------------------

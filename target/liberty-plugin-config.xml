@@ -7,6 +7,7 @@
     <serverName>projectServer</serverName>
     <configDirectory>D:\mine\JEE\authentication\project\src\main\liberty\config</configDirectory>
     <configFile>D:\mine\JEE\authentication\project\src\main\liberty\config\server.xml</configFile>
+    <appsDirectory>apps</appsDirectory>
     <looseApplication>true</looseApplication>
     <stripVersion>false</stripVersion>
     <installAppPackages>project</installAppPackages>

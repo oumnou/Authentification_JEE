@@ -1,0 +1,6 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      1  2/23/24, 8:44:55:260 WEST   2/23/24, 8:44:55:260 WEST  java.lang.IllegalStateException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.23_08.44.55.0.log
+------+------+---------------------------+---------------------------+---------------------------

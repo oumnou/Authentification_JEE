@@ -1,0 +1,15 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0     15  2/22/24, 1:11:00:942 WEST  2/22/24, 12:46:33:410 WEST  java.lang.NullPointerException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.22_01.11.00.0.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.22_12.36.04.0.log
+     1      1 2/22/24, 14:54:23:024 WEST  2/22/24, 14:54:23:024 WEST  java.lang.IllegalStateException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.22_14.54.23.0.log
+     2      2 2/22/24, 15:26:13:829 WEST  2/22/24, 15:26:14:049 WEST  javax.el.ELException com.ibm.ws.jsp23.translator.visitor.validator.ELValidatorExtImpl 55
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.22_15.26.13.0.log
+     3      4 2/22/24, 16:42:18:025 WEST  2/22/24, 16:46:37:592 WEST  com.ibm.ws.jsp.JspCoreException com.ibm.ws.jsp.webcontainerext.JSPExtensionServletWrapper.translateJsp 259
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.22_16.42.18.0.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.22_16.44.19.0.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.22_16.46.37.0.log
+------+------+---------------------------+---------------------------+---------------------------
