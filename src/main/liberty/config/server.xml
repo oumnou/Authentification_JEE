@@ -15,10 +15,20 @@
 -->
 <server description="Sample Servlet server">
     <featureManager>
-        <feature>jsp-2.3</feature>
+    
+        <feature>servlet-6.0</feature>
+        <feature>cdi-4.0</feature>
+        <feature>jdbc-4.3</feature>
+        
     </featureManager>
-    
+    <library id="jdbcLib">
+            <fileset dir="jdbc" includes="*.jar"/>
+    </library>
+    <dataSource jndiName="jdbc/myDB">
+        <jdbcDriver libraryRef="jdbcLib"/>
+        <properties serverName="localhost" portNumber="1521" databaseName="user_accounts" user="system" password="hello"/>
+    </dataSource>
+            
     <httpEndpoint httpPort="9010" httpsPort="9443" id="defaultHttpEndpoint" />
-    
     <webApplication id="project" location="project.war" name="project"/>
 </server>

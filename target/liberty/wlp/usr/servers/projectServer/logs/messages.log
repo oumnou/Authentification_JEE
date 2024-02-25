@@ -5,183 +5,80 @@ java.home = C:\Program Files\Java\jdk-21
 java.version = 21.0.2
 java.runtime = Java(TM) SE Runtime Environment (21.0.2+13-LTS-58)
 os = Windows 11 (10.0; amd64) (en_US)
-process = 18520@Android
+process = 17664@Android
 Classpath = D:\mine\JEE\authentication\project\target\liberty\wlp\bin\tools\ws-server.jar
 Java Library path = C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\21269\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\21269\bin;D:\applications\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts;C:\Python310;C:\Windows\System32\HWAudioDriverLibs;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\composer;C:\php-8.1.10;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\dotnet;C:\Program Files\apache-maven-3.9.6\bin;C:\Program Files\Java\jre-1.8\bin;C:\Program Files\Java\jdk-21\bin;C:\Users\21269\AppData\Local\Microsoft\WindowsApps;C:\Users\21269\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\21269;C:\php-8.1.10;C:\MinGW\bin;C:\Users\21269\AppData\Roaming\Composer\vendor\bin;C:\Users\21269\AppData\Local\ComposerSetup\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin;C:\Users\21269\AppData\Local\GitHubDesktop\bin;C:\Swift\bin;C:\Users\21269\flutter\bin;C:\Users\21269\AppData\Local\Android\Sdk;JAVA_HOME%\bin;C:\Program Files\Java\jdk-20;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Java\jre-1.8;C:\Users\21269\.dotnet\tools;C:\Program Files\apache-maven-3.9.6\bin;C:\Program Files\Java\jre-1.8\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.
 ********************************************************************************
-[2/23/24, 8:44:37:770 WEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server projectServer has been launched.
-[2/23/24, 8:44:38:807 WEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 1.356 seconds
-[2/23/24, 8:44:38:897 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
-[2/23/24, 8:44:39:143 WEST] 0000002b com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: Monitoring dropins for applications.
-[2/23/24, 8:44:39:367 WEST] 0000003d com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
-[2/23/24, 8:44:39:368 WEST] 0000003d bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
-[2/23/24, 8:44:39:450 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:463 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:464 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:465 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:466 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:669 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:675 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:675 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:676 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:678 WEST] 0000003d m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:44:39:965 WEST] 0000003d com.ibm.ws.session.WASSessionCore                            I SESN8501I: The session manager did not find a persistent storage location; HttpSession objects will be stored in the local application server's memory.
-[2/23/24, 8:44:40:006 WEST] 0000003d com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
-[2/23/24, 8:44:40:008 WEST] 0000003d com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
-[2/23/24, 8:44:40:010 WEST] 0000003d com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
-[2/23/24, 8:44:40:106 WEST] 00000045 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
-[2/23/24, 8:44:40:186 WEST] 00000044 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
-[2/23/24, 8:44:40:192 WEST] 00000044 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
-[2/23/24, 8:44:40:288 WEST] 00000044 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: Application project started in 0.920 seconds.
-[2/23/24, 8:44:40:307 WEST] 00000034 com.ibm.ws.tcpchannel.internal.TCPPort                       I CWWKO0219I: TCP Channel defaultHttpEndpoint has been started and is now listening for requests on host kubernetes.docker.internal  (IPv4: 127.0.0.1) port 9010.
-[2/23/24, 8:44:40:330 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [el-3.0, jsp-2.3, servlet-3.1].
-[2/23/24, 8:44:40:331 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 1.523 seconds.
-[2/23/24, 8:44:40:331 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: The projectServer server is ready to run a smarter planet. The projectServer server started in 2.881 seconds.
-[2/23/24, 8:44:44:576 WEST] 00000048 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [/index.jsp]: Initialization successful.
-[2/23/24, 8:44:49:230 WEST] 0000004b com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [oumnou.lp.HelloServlet]: Initialization successful.
-[2/23/24, 8:44:51:550 WEST] 00000048 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [/page2.jsp]: Initialization successful.
-[2/23/24, 8:44:55:245 WEST] 00000047 com.ibm.ws.webcontainer.srt                                  W SRVE8094W: WARNING: Cannot set header. Response already committed.  Stack trace of errant attempt to set header: 
-        at com.ibm.ws.webcontainer.srt.SRTServletResponse.addCookie(SRTServletResponse.java:973)
-        at [internal classes].(Unknown Source)
-        at oumnou.lp.HelloServlet.doGet(HelloServlet.java:41)
-        at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
-        at [internal classes].(Unknown Source)
-
-[2/23/24, 8:44:55:245 WEST] 00000047 com.ibm.ws.webcontainer.util.ApplicationErrorUtils           E SRVE0777E: Exception thrown by application class 'com.ibm.ws.webcontainer.webapp.WebAppDispatcherContext.sendRedirectWithStatusCode:585'
-java.lang.IllegalStateException
-	at com.ibm.ws.webcontainer.webapp.WebAppDispatcherContext.sendRedirectWithStatusCode(WebAppDispatcherContext.java:585)
-	at com.ibm.ws.webcontainer.webapp.WebAppDispatcherContext.sendRedirect(WebAppDispatcherContext.java:540)
-	at com.ibm.ws.webcontainer.srt.SRTServletResponse.sendRedirect(SRTServletResponse.java:1444)
-	at oumnou.lp.HelloServlet.doGet(HelloServlet.java:42)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
-	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service(ServletWrapper.java:1260)
-	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:748)
-	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:445)
-	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters(WebAppFilterManager.java:1361)
-	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters(WebAppFilterManager.java:1077)
-	at com.ibm.ws.webcontainer.servlet.CacheServletWrapper.handleRequest(CacheServletWrapper.java:77)
-	at com.ibm.ws.webcontainer.WebContainer.handleRequest(WebContainer.java:969)
-	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.run(DynamicVirtualHost.java:293)
-	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink$TaskWrapper.run(HttpDispatcherLink.java:1260)
-	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.wrapHandlerAndExecute(HttpDispatcherLink.java:476)
-	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.ready(HttpDispatcherLink.java:435)
-	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleDiscrimination(HttpInboundLink.java:569)
-	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleNewRequest(HttpInboundLink.java:503)
-	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.processRequest(HttpInboundLink.java:363)
-	at com.ibm.ws.http.channel.internal.inbound.HttpICLReadCallback.complete(HttpICLReadCallback.java:72)
-	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.requestComplete(WorkQueueManager.java:516)
-	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.attemptIO(WorkQueueManager.java:586)
-	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.workerRun(WorkQueueManager.java:970)
-	at com.ibm.ws.tcpchannel.internal.WorkQueueManager$Worker.run(WorkQueueManager.java:1059)
-	at com.ibm.ws.threading.internal.ExecutorServiceImpl$RunnableWrapper.run(ExecutorServiceImpl.java:280)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-
-[2/23/24, 8:44:55:593 WEST] 00000047 com.ibm.ws.logging.internal.impl.IncidentImpl                I FFDC1015I: An FFDC Incident has been created: "java.lang.IllegalStateException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105" at ffdc_24.02.23_08.44.55.0.log
-[2/23/24, 8:44:55:608 WEST] 00000047 com.ibm.ws.webcontainer.srt                                  W SRVE8115W: WARNING: Cannot set status. Response already committed.
-[2/23/24, 8:45:04:669 WEST] 00000047 com.ibm.ws.webcontainer.util.ApplicationErrorUtils           E SRVE0777E: Exception thrown by application class 'com.ibm.ws.webcontainer.webapp.WebAppDispatcherContext.sendRedirectWithStatusCode:585'
-java.lang.IllegalStateException
-	at com.ibm.ws.webcontainer.webapp.WebAppDispatcherContext.sendRedirectWithStatusCode(WebAppDispatcherContext.java:585)
-	at com.ibm.ws.webcontainer.webapp.WebAppDispatcherContext.sendRedirect(WebAppDispatcherContext.java:540)
-	at com.ibm.ws.webcontainer.srt.SRTServletResponse.sendRedirect(SRTServletResponse.java:1444)
-	at oumnou.lp.HelloServlet.doGet(HelloServlet.java:42)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
-	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service(ServletWrapper.java:1260)
-	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:748)
-	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:445)
-	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters(WebAppFilterManager.java:1361)
-	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters(WebAppFilterManager.java:1077)
-	at com.ibm.ws.webcontainer.servlet.CacheServletWrapper.handleRequest(CacheServletWrapper.java:77)
-	at com.ibm.ws.webcontainer.WebContainer.handleRequest(WebContainer.java:969)
-	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.run(DynamicVirtualHost.java:293)
-	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink$TaskWrapper.run(HttpDispatcherLink.java:1260)
-	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.wrapHandlerAndExecute(HttpDispatcherLink.java:476)
-	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.ready(HttpDispatcherLink.java:435)
-	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleDiscrimination(HttpInboundLink.java:569)
-	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleNewRequest(HttpInboundLink.java:503)
-	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.processRequest(HttpInboundLink.java:363)
-	at com.ibm.ws.http.channel.internal.inbound.HttpICLReadCallback.complete(HttpICLReadCallback.java:72)
-	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.requestComplete(WorkQueueManager.java:516)
-	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.attemptIO(WorkQueueManager.java:586)
-	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.workerRun(WorkQueueManager.java:970)
-	at com.ibm.ws.tcpchannel.internal.WorkQueueManager$Worker.run(WorkQueueManager.java:1059)
-	at com.ibm.ws.threading.internal.ExecutorServiceImpl$RunnableWrapper.run(ExecutorServiceImpl.java:280)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-
-[2/23/24, 8:45:04:669 WEST] 00000047 com.ibm.ws.webcontainer.srt                                  W SRVE8115W: WARNING: Cannot set status. Response already committed.
-[2/23/24, 8:46:58:462 WEST] 00000058 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
-[2/23/24, 8:46:58:464 WEST] 00000058 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [project] [/project] [oumnou.lp.HelloServlet]: Destroy successful.
-[2/23/24, 8:46:58:465 WEST] 00000058 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [project] [/project] [/index.jsp]: Destroy successful.
-[2/23/24, 8:46:58:465 WEST] 00000058 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [project] [/project] [/page2.jsp]: Destroy successful.
-[2/23/24, 8:46:58:490 WEST] 00000058 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
-[2/23/24, 8:46:58:500 WEST] 00000058 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
-[2/23/24, 8:46:58:500 WEST] 00000058 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
-[2/23/24, 8:46:58:520 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:535 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:536 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:537 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:537 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:582 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:586 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:587 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:588 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:588 WEST] 00000058 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
-[2/23/24, 8:46:58:698 WEST] 00000058 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
-[2/23/24, 8:46:58:699 WEST] 00000058 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
-[2/23/24, 8:46:58:699 WEST] 00000058 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
-[2/23/24, 8:46:58:744 WEST] 0000005b com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
-[2/23/24, 8:46:58:744 WEST] 0000005b com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
-[2/23/24, 8:46:58:772 WEST] 00000059 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
-[2/23/24, 8:46:58:779 WEST] 0000005b com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.279 seconds.
-[2/23/24, 8:46:58:793 WEST] 0000005c com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
-[2/23/24, 8:47:01:307 WEST] 00000059 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [/page2.jsp]: Initialization successful.
-[2/23/24, 8:47:08:741 WEST] 00000054 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [/index.jsp]: Initialization successful.
-[2/23/24, 8:47:10:819 WEST] 00000038 SystemErr                                                    R java.sql.SQLException: No suitable driver found for jdbc:oracle:thin:@android:1521:xe
-[2/23/24, 8:47:10:821 WEST] 00000038 SystemErr                                                    R 	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:708)
-[2/23/24, 8:47:10:821 WEST] 00000038 SystemErr                                                    R 	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
-[2/23/24, 8:47:10:822 WEST] 00000038 SystemErr                                                    R 	at oumnou.lp.dataBase.DatabaseConnection.getConnection(DatabaseConnection.java:15)
-[2/23/24, 8:47:10:822 WEST] 00000038 SystemErr                                                    R 	at oumnou.lp.HelloServlet.<clinit>(HelloServlet.java:24)
-[2/23/24, 8:47:10:824 WEST] 00000038 SystemErr                                                    R 	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)
-[2/23/24, 8:47:10:824 WEST] 00000038 SystemErr                                                    R 	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at java.base/jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(MethodHandleAccessorFactory.java:300)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at java.base/jdk.internal.reflect.MethodHandleAccessorFactory.newConstructorAccessor(MethodHandleAccessorFactory.java:103)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at java.base/jdk.internal.reflect.ReflectionFactory.newConstructorAccessor(ReflectionFactory.java:200)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at java.base/java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:549)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.managedobject.internal.ManagedObjectFactoryImpl.createManagedObject(ManagedObjectFactoryImpl.java:74)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.osgi.webapp.WebApp.inject(WebApp.java:1259)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.osgi.webapp.WebApp.injectAndPostConstruct(WebApp.java:1419)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.osgi.webapp.WebApp.injectAndPostConstruct(WebApp.java:1407)
-[2/23/24, 8:47:10:825 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.osgi.servlet.ServletWrapper.createTarget(ServletWrapper.java:65)
-[2/23/24, 8:47:10:835 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.servlet.ServletWrapper$1.run(ServletWrapper.java:1545)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.servlet.ServletWrapper.loadServlet(ServletWrapper.java:1513)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:592)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:445)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters(WebAppFilterManager.java:1361)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.webapp.WebApp.handleRequest(WebApp.java:5076)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.handleRequest(DynamicVirtualHost.java:328)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.WebContainer.handleRequest(WebContainer.java:1038)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.run(DynamicVirtualHost.java:293)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink$TaskWrapper.run(HttpDispatcherLink.java:1260)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.wrapHandlerAndExecute(HttpDispatcherLink.java:476)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.ready(HttpDispatcherLink.java:435)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleDiscrimination(HttpInboundLink.java:569)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleNewRequest(HttpInboundLink.java:503)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.processRequest(HttpInboundLink.java:363)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.channel.internal.inbound.HttpICLReadCallback.complete(HttpICLReadCallback.java:72)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.requestComplete(WorkQueueManager.java:516)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.attemptIO(WorkQueueManager.java:586)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.workerRun(WorkQueueManager.java:970)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.WorkQueueManager$Worker.run(WorkQueueManager.java:1059)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.threading.internal.ExecutorServiceImpl$RunnableWrapper.run(ExecutorServiceImpl.java:280)
-[2/23/24, 8:47:10:836 WEST] 00000038 SystemErr                                                    R 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[2/23/24, 8:47:10:851 WEST] 00000038 SystemErr                                                    R 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[2/23/24, 8:47:10:851 WEST] 00000038 SystemErr                                                    R 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[2/23/24, 8:47:10:851 WEST] 00000038 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [oumnou.lp.HelloServlet]: Initialization successful.
+[2/25/24, 23:22:40:879 WEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server projectServer has been launched.
+[2/25/24, 23:22:41:852 WEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 1.276 seconds
+[2/25/24, 23:22:41:963 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[2/25/24, 23:22:42:258 WEST] 0000002b com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: Monitoring dropins for applications.
+[2/25/24, 23:22:42:634 WEST] 0000003e com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/25/24, 23:22:42:635 WEST] 0000003e bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/25/24, 23:22:42:707 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:720 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:721 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:721 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:722 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:943 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:948 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:948 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:949 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:42:950 WEST] 0000003e m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:22:43:318 WEST] 0000003e org.jboss.weld.Version                                       I WELD-000900: 5.1.1 (SP1)
+[2/25/24, 23:22:44:336 WEST] 0000003e com.ibm.ws.session.WASSessionCore                            I SESN8501I: The session manager did not find a persistent storage location; HttpSession objects will be stored in the local application server's memory.
+[2/25/24, 23:22:44:342 WEST] 0000003e com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/25/24, 23:22:44:344 WEST] 0000003e com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/25/24, 23:22:44:345 WEST] 0000003e com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/25/24, 23:22:44:367 WEST] 0000004c com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/25/24, 23:22:44:377 WEST] 0000004c com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/25/24, 23:22:44:407 WEST] 00000045 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/25/24, 23:22:44:427 WEST] 0000004c com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: Application project started in 1.792 seconds.
+[2/25/24, 23:22:44:441 WEST] 00000034 com.ibm.ws.tcpchannel.internal.TCPPort                       I CWWKO0219I: TCP Channel defaultHttpEndpoint has been started and is now listening for requests on host kubernetes.docker.internal  (IPv4: 127.0.0.1) port 9010.
+[2/25/24, 23:22:44:461 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [cdi-4.0, jdbc-4.3, servlet-6.0].
+[2/25/24, 23:22:44:462 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 2.610 seconds.
+[2/25/24, 23:22:44:462 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: The projectServer server is ready to run a smarter planet. The projectServer server started in 3.887 seconds.
+[2/25/24, 23:23:19:410 WEST] 00000047 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/25/24, 23:23:19:459 WEST] 00000047 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/25/24, 23:23:19:476 WEST] 00000047 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/25/24, 23:23:19:476 WEST] 00000047 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/25/24, 23:23:19:517 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:554 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:554 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:554 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:554 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:752 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:752 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:752 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:752 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:19:768 WEST] 00000047 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:20:051 WEST] 00000049 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/25/24, 23:23:21:321 WEST] 00000047 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/25/24, 23:23:21:321 WEST] 00000047 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/25/24, 23:23:21:321 WEST] 00000047 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/25/24, 23:23:21:321 WEST] 00000042 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/25/24, 23:23:21:321 WEST] 00000042 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/25/24, 23:23:21:339 WEST] 00000042 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 1.860 seconds.
+[2/25/24, 23:23:21:365 WEST] 00000047 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/25/24, 23:23:24:375 WEST] 00000054 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/25/24, 23:23:24:388 WEST] 00000054 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/25/24, 23:23:24:405 WEST] 00000054 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/25/24, 23:23:24:405 WEST] 00000054 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/25/24, 23:23:24:435 WEST] 00000049 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/25/24, 23:23:24:435 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:467 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:467 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:467 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:467 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:657 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path oraclepki.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/jdbc/ojdbc8/19.3.0.0/ojdbc8-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:657 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:657 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:673 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_core.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:24:673 WEST] 00000054 m.ibm.ws.container.service.app.deploy.ManifestClassPathUtils W SRVE9967W: The manifest class path ../oracle.osdt/osdt_cert.jar can not be found in jar file file:/C:/Users/21269/.m2/repository/com/oracle/database/security/oraclepki/19.3.0.0/oraclepki-19.3.0.0.jar or its parent.
+[2/25/24, 23:23:26:387 WEST] 00000054 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/25/24, 23:23:26:387 WEST] 00000054 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/25/24, 23:23:26:387 WEST] 00000054 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/25/24, 23:23:26:387 WEST] 00000037 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/25/24, 23:23:26:387 WEST] 00000037 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/25/24, 23:23:26:404 WEST] 00000037 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 1.998 seconds.
+[2/25/24, 23:23:26:441 WEST] 00000054 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.

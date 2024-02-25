@@ -7,7 +7,6 @@
     <serverName>projectServer</serverName>
     <configDirectory>D:\mine\JEE\authentication\project\src\main\liberty\config</configDirectory>
     <configFile>D:\mine\JEE\authentication\project\src\main\liberty\config\server.xml</configFile>
-    <appsDirectory>apps</appsDirectory>
     <looseApplication>true</looseApplication>
     <stripVersion>false</stripVersion>
     <installAppPackages>project</installAppPackages>
@@ -30,5 +29,11 @@
     <projectCompileDependency>com.oracle.database.security:osdt_core:19.3.0.0</projectCompileDependency>
     <projectCompileDependency>com.oracle.database.ha:simplefan:19.3.0.0</projectCompileDependency>
     <projectCompileDependency>com.oracle.database.ha:ons:19.3.0.0</projectCompileDependency>
+    <projectCompileDependency>jakarta.enterprise:jakarta.enterprise.cdi-api:4.0.1</projectCompileDependency>
+    <projectCompileDependency>jakarta.enterprise:jakarta.enterprise.lang-model:4.0.1</projectCompileDependency>
+    <projectCompileDependency>jakarta.annotation:jakarta.annotation-api:2.1.0</projectCompileDependency>
+    <projectCompileDependency>jakarta.el:jakarta.el-api:5.0.0</projectCompileDependency>
+    <projectCompileDependency>jakarta.interceptor:jakarta.interceptor-api:2.1.0</projectCompileDependency>
+    <projectCompileDependency>jakarta.inject:jakarta.inject-api:2.0.1</projectCompileDependency>
     <warSourceDirectory>D:\mine\JEE\authentication\project\src\main\webapp</warSourceDirectory>
 </liberty-plugin-config>

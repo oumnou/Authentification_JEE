@@ -3,16 +3,15 @@ package oumnou.lp;
 import java.io.IOException;
 import java.sql.Connection;
 
-import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.Cookie;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
-
-import oumnou.lp.dataBase.Database;
-import oumnou.lp.dataBase.DatabaseConnection;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.Cookie;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpSession;
+import oumnou.lp.dataBasee.Database;
+import oumnou.lp.dataBasee.DatabaseConnection;
 import oumnou.lp.model.User;
 
 
@@ -90,26 +89,6 @@ public class HelloServlet extends HttpServlet {
           
             }
             
-    // } else if (action.equals("logout")) {
-    //     // Remove the loggedIn cookie
-    //     Cookie[] cookies = request.getCookies();
-    //     if (cookies != null) {
-    //         for (Cookie cookie : cookies) {
-    //             if (cookie.getName().equals("loggedIn")) {
-    //                 cookie.setMaxAge(0); 
-    //                 response.addCookie(cookie);
-
-    //                 break;
-    //             }
-    //         }
-    //     }
-        
-    //     // Invalidate the session
-    //     session.invalidate();
-
-    //     // Redirect the user to the login page
-    //     response.sendRedirect("index.jsp");
-    // }
 
 }
         

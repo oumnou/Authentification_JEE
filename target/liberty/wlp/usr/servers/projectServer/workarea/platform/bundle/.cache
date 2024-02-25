@@ -53,6 +53,7 @@ com.ibm.ws.ui.tool.javaBatch;1.0.85.cl240120240115-2042;false;1705354790000;1940
 com.ibm.ws.org.apache.cxf.cxf.rt.ws.addr.3.2.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;72468;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.cxf.rt.ws.addr.3.2.jakarta_1.0.85.jar
 com.ibm.ws.request.probes;1.0.85.cl240120240115-2042;false;1705354790000;64842;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.request.probes_1.0.85.jar
 com.ibm.ws.webcontainer.monitor.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;26974;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.webcontainer.monitor.jakarta_1.0.85.jar
+com.ibm.websphere.appserver.spi.logging;1.1.85.cl240120240115-2042;false;1705354788000;51471;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.logging_1.1.85.jar
 io.openliberty.jakarta.pages.3.0;1.0.85.cl240120240115-2042;false;1705354788000;65933;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.pages.3.0_1.0.85.jar
 io.openliberty.jakarta.pages.3.1;1.0.85.cl240120240115-2042;false;1705354788000;69088;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.pages.3.1_1.0.85.jar
 com.ibm.ws.jaxrs.2.0.server;1.0.85.cl240120240115-2042;false;1705354788000;81923;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jaxrs.2.0.server_1.0.85.jar
@@ -65,6 +66,7 @@ com.ibm.ws.org.apache.cxf.cxf.rt.ws.policy.3.2;1.0.85.cl240120240115-2042;false;
 io.openliberty.security.mp.jwt.cdi.internal;1.0.85.cl240120240115-2042;false;1705354790000;60843;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.security.mp.jwt.cdi.internal_1.0.85.jar
 com.ibm.ws.org.apache.commons.fileupload;1.0.85.cl240120240115-2042;false;1705354788000;72301;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.commons.fileupload_1.0.85.jar
 io.openliberty.jakarta.expressionLanguage.5.0;1.0.85.cl240120240115-2042;false;1705354788000;115017;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.expressionLanguage.5.0_1.0.85.jar
+com.ibm.websphere.appserver.spi.classloading;1.4.85.cl240120240115-2042;false;1705354788000;15867;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.classloading_1.4.85.jar
 com.ibm.ws.ui.tool.explore;1.0.85.cl240120240115-2042;false;1705354790000;2210720;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.ui.tool.explore_1.0.85.jar
 io.openliberty.rest.handler.validator.openapi.2.0.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;14114;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.rest.handler.validator.openapi.2.0.jakarta_1.0.85.jar
 com.ibm.ws.security.token;1.0.85.cl240120240115-2042;false;1705354790000;65393;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.token_1.0.85.jar
@@ -95,6 +97,7 @@ com.ibm.ws.logging.hpel;1.0.85.cl240120240115-2042;false;1705354788000;689852;li
 com.ibm.ws.opentracing.1.3.cdi;1.3.85.cl240120240115-2042;false;1705354788000;7112;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.opentracing.1.3.cdi_1.3.85.jar
 com.ibm.ws.org.apache.wss4j.ws.security.common;2.3.85.cl240120240115-2042;false;1705354790000;288519;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.wss4j.ws.security.common_2.3.85.jar
 io.openliberty.org.hibernate.validator.cdi.7.0;1.0.85.cl240120240115-2042;false;1705354790000;41934;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.hibernate.validator.cdi.7.0_1.0.85.jar
+com.ibm.websphere.appserver.spi.javaeedd;1.8.85.cl240120240115-2042;false;1705354788000;67289;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.javaeedd_1.8.85.jar
 com.ibm.ws.jaxws.cdi;1.0.85.cl240120240115-2042;false;1705354788000;9412;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jaxws.cdi_1.0.85.jar
 com.ibm.ws.messaging.jms.common;1.0.85.cl240120240115-2042;false;1705354788000;295540;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.messaging.jms.common_1.0.85.jar
 com.ibm.ws.mongo.ssl;1.0.85.cl240120240115-2042;false;1705354788000;9458;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.mongo.ssl_1.0.85.jar
@@ -117,6 +120,7 @@ com.ibm.ws.microprofile.metrics;1.0.85.cl240120240115-2042;false;1705354788000;2
 com.ibm.ws.eba.wab.integrator;1.0.85.cl240120240115-2042;false;1705354788000;4469;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.eba.wab.integrator_1.0.85.jar
 com.ibm.ws.artifact.equinox.module;1.0.85.cl240120240115-2042;false;1705354788000;22685;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.artifact.equinox.module_1.0.85.jar
 io.openliberty.springboot.support.web.server.version30;1.0.85.cl240120240115-2042;false;1705354790000;20616;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.springboot.support.web.server.version30_1.0.85.jar
+io.openliberty.opentracing.2.0.spi;1.0.85.cl240120240115-2042;false;1705354788000;3968;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\io.openliberty.opentracing.2.0.spi_1.0.85.jar
 com.ibm.ws.jaxrs.2.x.defaultexceptionmapper;1.0.85.cl240120240115-2042;false;1705354788000;5775;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jaxrs.2.x.defaultexceptionmapper_1.0.85.jar
 io.openliberty.facesContainer.classloading.3.0;1.0.85.cl240120240115-2042;false;1705354790000;6368;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.facesContainer.classloading.3.0_1.0.85.jar
 com.ibm.websphere.javaee.websocket.1.1;1.0.85.cl240120240115-2042;false;1705354788000;35331;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.websocket.1.1_1.0.85.jar
@@ -199,6 +203,7 @@ com.ibm.ws.jndi.ejb;1.0.85.cl240120240115-2042;false;1705354788000;18603;lib/;D:
 com.ibm.ws.jms20.feature;1.0.85.cl240120240115-2042;false;1705354788000;2741;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jms20.feature_1.0.85.jar
 com.ibm.ws.org.apache.taglibs.standard;1.0.85.cl240120240115-2042;false;1705354790000;2187685;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.taglibs.standard_1.0.85.jar
 io.openliberty.microprofile.openapi.2.0.internal;1.0.85.cl240120240115-2042;false;1705354790000;268990;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.microprofile.openapi.2.0.internal_1.0.85.jar
+io.openliberty.servlet.spi;2.13.85.cl240120240115-2042;false;1705354788000;172054;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\io.openliberty.servlet.spi_2.13.85.jar
 com.ibm.ws.org.apache.cxf.rt.security.3.4.1.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;42707;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.rt.security.3.4.1.jakarta_1.0.85.jar
 com.ibm.ws.security.kerberos.auth;1.0.85.cl240120240115-2042;false;1705354790000;55726;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.kerberos.auth_1.0.85.jar
 com.ibm.ws.webcontainer.security.admin;1.0.85.cl240120240115-2042;false;1705354790000;12004;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.webcontainer.security.admin_1.0.85.jar
@@ -244,8 +249,10 @@ com.ibm.ws.webcontainer.servlet.4.0;1.0.85.cl240120240115-2042;false;17053547900
 com.ibm.ws.ejbcontainer.management.j2ee;1.0.85.cl240120240115-2042;false;1705354788000;14671;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.ejbcontainer.management.j2ee_1.0.85.jar
 com.ibm.ws.ejbcontainer.remote.client.server.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;7796;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.ejbcontainer.remote.client.server.jakarta_1.0.85.jar
 com.ibm.ws.microprofile.metrics.monitor;1.0.85.cl240120240115-2042;false;1705354788000;39120;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.microprofile.metrics.monitor_1.0.85.jar
+io.openliberty.wsat.spi;1.0.85.cl240120240115-2042;false;1705354788000;3705;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\io.openliberty.wsat.spi_1.0.85.jar
 io.openliberty.microprofile.faulttolerance.3.0.internal.cdi.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;8807;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.microprofile.faulttolerance.3.0.internal.cdi.jakarta_1.0.85.jar
 com.ibm.websphere.javaee.jaxws.2.2;1.0.85.cl240120240115-2042;false;1705354788000;46049;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.jaxws.2.2_1.0.85.jar
+com.ibm.websphere.appserver.spi.webCache;1.0.85.cl240120240115-2042;false;1705354788000;9588;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.webCache_1.0.85.jar
 com.ibm.ws.javaee.ddmodel.ws;1.0.85.cl240120240115-2042;false;1705354788000;23243;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.javaee.ddmodel.ws_1.0.85.jar
 com.ibm.ws.request.probe.audit.servlet.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;18384;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.request.probe.audit.servlet.jakarta_1.0.85.jar
 com.ibm.ws.org.apache.cxf.cxf.rt.bindings.xml.3.2.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;31366;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.cxf.rt.bindings.xml.3.2.jakarta_1.0.85.jar
@@ -286,6 +293,7 @@ com.ibm.ws.session.db;1.0.85.cl240120240115-2042;false;1705354790000;230694;lib/
 com.ibm.ws.jdbc.management.j2ee;1.0.85.cl240120240115-2042;false;1705354788000;25029;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jdbc.management.j2ee_1.0.85.jar
 io.openliberty.jakartaee.platform.v10;1.0.85.cl240120240115-2042;false;1705354790000;2960;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.jakartaee.platform.v10_1.0.85.jar
 com.ibm.ws.concurrent.persistent.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;209185;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.concurrent.persistent.jakarta_1.0.85.jar
+com.ibm.websphere.appserver.spi.threading;1.1.85.cl240120240115-2042;false;1705354788000;4105;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.threading_1.1.85.jar
 com.ibm.ws.wsoc.cdi.weld;1.0.85.cl240120240115-2042;false;1705354790000;11308;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.wsoc.cdi.weld_1.0.85.jar
 com.ibm.ws.beanvalidation.v20.cdi;1.0.85.cl240120240115-2042;false;1705354788000;50692;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.beanvalidation.v20.cdi_1.0.85.jar
 com.ibm.ws.jca.utils.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;230593;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jca.utils.jakarta_1.0.85.jar
@@ -306,6 +314,7 @@ com.ibm.ws.config.server.schemagen;1.0.85.cl240120240115-2042;false;170535478800
 io.openliberty.grpc.1.0.internal.client.security;1.0.85.cl240120240115-2042;false;1705354790000;34911;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.grpc.1.0.internal.client.security_1.0.85.jar
 com.ibm.websphere.javaee.cdi.1.0;1.0.85.cl240120240115-2042;false;1705354788000;51749;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.cdi.1.0_1.0.85.jar
 com.ibm.ws.org.apache.cxf.cxf.rt.features.logging.3.2;1.0.85.cl240120240115-2042;false;1705354788000;55138;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.cxf.rt.features.logging.3.2_1.0.85.jar
+com.ibm.websphere.appserver.spi.artifact;1.2.85.cl240120240115-2042;false;1705354788000;24674;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.artifact_1.2.85.jar
 io.openliberty.microprofile.metrics.internal.3.0;1.0.85.cl240120240115-2042;false;1705354790000;386686;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.microprofile.metrics.internal.3.0_1.0.85.jar
 io.openliberty.jakarta.persistence.3.1;1.0.85.cl240120240115-2042;false;1705354788000;169223;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.persistence.3.1_1.0.85.jar
 io.openliberty.jakarta.persistence.3.0;1.0.85.cl240120240115-2042;false;1705354788000;160553;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.persistence.3.0_1.0.85.jar
@@ -327,6 +336,7 @@ com.ibm.ws.jaxrs.2.x.config;1.0.85.cl240120240115-2042;false;1705354788000;26652
 com.ibm.ws.jdbc.4.3.feature;1.0.85.cl240120240115-2042;false;1705354788000;9324;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jdbc.4.3.feature_1.0.85.jar
 com.ibm.ws.managedobject;1.0.85.cl240120240115-2042;false;1705354788000;16399;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.managedobject_1.0.85.jar
 com.ibm.ws.openapi.3.1;1.0.85.cl240120240115-2042;false;1705354788000;124409;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.openapi.3.1_1.0.85.jar
+com.ibm.websphere.appserver.spi.kernel.filemonitor;1.0.85.cl240120240115-2042;false;1705354788000;4246;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.kernel.filemonitor_1.0.85.jar
 com.ibm.ws.serialization;1.0.85.cl240120240115-2042;false;1705354790000;26206;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.serialization_1.0.85.jar
 io.openliberty.microprofile.opentracing.3.0.internal.rest.client;1.0.85.cl240120240115-2042;false;1705354790000;8845;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.microprofile.opentracing.3.0.internal.rest.client_1.0.85.jar
 com.ibm.ws.ssl;1.6.85.cl240120240115-2042;false;1705354790000;453845;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.ssl_1.6.85.jar
@@ -383,6 +393,7 @@ com.ibm.ws.org.eclipse.equinox.console;1.0.85.cl240120240115-2042;false;17053547
 com.ibm.ws.microprofile.openapi.1.1.model;1.0.85.cl240120240115-2042;false;1705354788000;101569;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.microprofile.openapi.1.1.model_1.0.85.jar
 io.openliberty.java11.internal;1.0.85.cl240120240115-2042;false;1705354790000;2314;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.java11.internal_1.0.85.jar
 io.openliberty.restfulWS.mpMetrics.filter;1.0.85.cl240120240115-2042;false;1705354790000;65797;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.restfulWS.mpMetrics.filter_1.0.85.jar
+io.openliberty.cdi.spi;1.1.85.cl240120240115-2042;false;1705354788000;3865;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\io.openliberty.cdi.spi_1.1.85.jar
 com.ibm.ws.cdi.transaction.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;7696;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.cdi.transaction.jakarta_1.0.85.jar
 com.ibm.ws.security.openidconnect.common;1.0.85.cl240120240115-2042;false;1705354790000;37837;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.openidconnect.common_1.0.85.jar
 com.ibm.ws.ejbcontainer.async.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;38545;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.ejbcontainer.async.jakarta_1.0.85.jar
@@ -421,6 +432,7 @@ com.ibm.ws.cdi.mp.context;1.0.85.cl240120240115-2042;false;1705354788000;29447;l
 io.openliberty.org.jboss.resteasy.validator.provider.ee10;1.0.85.cl240120240115-2042;false;1705354790000;36495;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.jboss.resteasy.validator.provider.ee10_1.0.85.jar
 com.ibm.ws.appclient.boot;1.0.85.cl240120240115-2042;false;1705354788000;54083;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.appclient.boot_1.0.85.jar
 com.ibm.ws.security.wim.core;1.0.85.cl240120240115-2042;false;1705354790000;329282;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.wim.core_1.0.85.jar
+com.ibm.websphere.appserver.spi.anno;1.1.85.cl240120240115-2042;false;1705354788000;42269;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.anno_1.1.85.jar
 com.ibm.ws.request.interrupt;1.0.85.cl240120240115-2042;false;1705354790000;38725;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.request.interrupt_1.0.85.jar
 io.openliberty.java17.internal;1.0.85.cl240120240115-2042;false;1705354790000;2315;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.java17.internal_1.0.85.jar
 io.openliberty.xmlBinding.4.0.internal.tools;1.0.85.cl240120240115-2042;false;1705354792000;3098593;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.xmlBinding.4.0.internal.tools_1.0.85.jar
@@ -454,9 +466,11 @@ com.ibm.ws.microprofile.faulttolerance.2.1.cdi.jakarta;1.0.85.cl240120240115-204
 com.ibm.ws.wsoc.2.0.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;7227;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.wsoc.2.0.jakarta_1.0.85.jar
 com.ibm.ws.app.manager.sar;1.0.85.cl240120240115-2042;false;1705354788000;26501;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.app.manager.sar_1.0.85.jar
 io.openliberty.restfulWS30.appSecurity;1.0.85.cl240120240115-2042;false;1705354790000;9971;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.restfulWS30.appSecurity_1.0.85.jar
+com.ibm.websphere.appserver.spi.jaspic;1.1.85.cl240120240115-2042;false;1705354788000;3858;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.jaspic_1.1.85.jar
 com.ibm.ws.security.context;1.0.85.cl240120240115-2042;false;1705354790000;51019;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.context_1.0.85.jar
 com.ibm.ws.security.java2sec;1.0.85.cl240120240115-2042;false;1705354790000;19695;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.java2sec_1.0.85.jar
 com.ibm.ws.wssecurity.3.4.1;1.0.85.cl240120240115-2042;false;1705354790000;212244;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.wssecurity.3.4.1_1.0.85.jar
+com.ibm.websphere.appserver.spi.oauth;1.4.85.cl240120240115-2042;false;1705354788000;7194;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.oauth_1.4.85.jar
 com.ibm.ws.jsfContainer.classloading.2.2;1.0.85.cl240120240115-2042;false;1705354788000;6302;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jsfContainer.classloading.2.2_1.0.85.jar
 com.ibm.ws.jsfContainer.classloading.2.3;1.0.85.cl240120240115-2042;false;1705354788000;6307;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jsfContainer.classloading.2.3_1.0.85.jar
 com.ibm.ws.org.slf4j.jdk14;1.0.85.cl240120240115-2042;false;1705354790000;9238;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.slf4j.jdk14_1.0.85.jar
@@ -471,6 +485,7 @@ com.ibm.websphere.org.osgi.service.http;1.0.85.cl240120240115-2042;false;1705354
 com.ibm.ws.jndi.iiop;1.0.85.cl240120240115-2042;false;1705354788000;36046;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jndi.iiop_1.0.85.jar
 io.openliberty.microprofile.metrics.5.0.internal;1.0.85.cl240120240115-2042;false;1705354790000;232031;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.microprofile.metrics.5.0.internal_1.0.85.jar
 com.ibm.websphere.javaee.jaspic.1.1;1.0.85.cl240120240115-2042;false;1705354788000;29869;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.jaspic.1.1_1.0.85.jar
+com.ibm.websphere.appserver.spi.cdi;1.1.85.cl240120240115-2042;false;1705354788000;3962;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.cdi_1.1.85.jar
 com.ibm.ws.classloading.configuration;1.0.85.cl240120240115-2042;false;1705354788000;17433;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.classloading.configuration_1.0.85.jar
 io.openliberty.jaxws.wssecurity;1.0.85.cl240120240115-2042;false;1705354790000;7911;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.jaxws.wssecurity_1.0.85.jar
 com.ibm.ws.beanvalidation.v11;1.0.85.cl240120240115-2042;false;1705354788000;36490;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.beanvalidation.v11_1.0.85.jar
@@ -522,6 +537,7 @@ com.ibm.ws.cdi.ejb.common.jakarta;1.0.85.cl240120240115-2042;false;1705354788000
 com.ibm.ws.rest.handler.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;73424;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.rest.handler.jakarta_1.0.85.jar
 com.ibm.ws.springboot.support.shutdown;1.0.85.cl240120240115-2042;false;1705354790000;11043;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.springboot.support.shutdown_1.0.85.jar
 io.openliberty.jakarta.xmlBinding.3.0;1.0.85.cl240120240115-2042;false;1705354788000;127045;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.xmlBinding.3.0_1.0.85.jar
+com.ibm.websphere.appserver.spi.restHandler;2.0.85.cl240120240115-2042;false;1705354788000;24363;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.restHandler_2.0.85.jar
 com.ibm.ws.security.credentials.wscred;1.0.85.cl240120240115-2042;false;1705354790000;10828;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.credentials.wscred_1.0.85.jar
 com.ibm.ws.wsat.webservice;1.0.85.cl240120240115-2042;false;1705354790000;56797;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.wsat.webservice_1.0.85.jar
 io.openliberty.org.jboss.resteasy.server.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;100461;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.jboss.resteasy.server.jakarta_1.0.85.jar
@@ -529,6 +545,7 @@ io.openliberty.org.apache.taglibs.standard;1.0.85.cl240120240115-2042;false;1705
 com.ibm.ws.jaxws.2.3.clientcontainer;1.0.85.cl240120240115-2042;false;1705354788000;272261;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jaxws.2.3.clientcontainer_1.0.85.jar
 com.ibm.ws.org.apache.yoko.util.1.5;1.0.85.cl240120240115-2042;false;1705354790000;98659;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.yoko.util.1.5_1.0.85.jar
 com.ibm.ws.webserver.plugin.utility;1.0.85.cl240120240115-2042;false;1705354790000;251858;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.webserver.plugin.utility_1.0.85.jar
+com.ibm.websphere.appserver.spi.opentracing;1.0.85.cl240120240115-2042;false;1705354788000;3931;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.opentracing_1.0.85.jar
 com.ibm.websphere.javaee.servlet.3.0;1.0.85.cl240120240115-2042;false;1705354788000;94871;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.servlet.3.0_1.0.85.jar
 com.ibm.ws.jpa.container.v21.cdi.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;26798;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jpa.container.v21.cdi.jakarta_1.0.85.jar
 com.ibm.websphere.javaee.servlet.3.1;1.0.85.cl240120240115-2042;false;1705354788000;105871;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.servlet.3.1_1.0.85.jar
@@ -574,6 +591,8 @@ io.openliberty.jakarta.annotation.2.1;1.0.85.cl240120240115-2042;false;170535478
 com.ibm.ws.com.graphql.java;1.0.85.cl240120240115-2042;false;1705354788000;3701789;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.com.graphql.java_1.0.85.jar
 com.ibm.ws.webcontainer.servlet.3.1.factories;1.0.85.cl240120240115-2042;false;1705354790000;24354;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.webcontainer.servlet.3.1.factories_1.0.85.jar
 io.openliberty.grpc.1.0.internal.common.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;7679449;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.grpc.1.0.internal.common.jakarta_1.0.85.jar
+com.ibm.websphere.appserver.spi.transaction;1.1.85.cl240120240115-2042;false;1705354788000;3975;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.transaction_1.1.85.jar
+com.ibm.websphere.appserver.spi.opentracing.1.3;1.0.85.cl240120240115-2042;false;1705354788000;3962;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.opentracing.1.3_1.0.85.jar
 com.ibm.ws.dynacache.monitor;1.0.85.cl240120240115-2042;false;1705354788000;19844;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.dynacache.monitor_1.0.85.jar
 io.openliberty.concurrent.internal;1.0.85.cl240120240115-2042;false;1705354790000;120524;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.concurrent.internal_1.0.85.jar
 io.openliberty.jakarta.expressionLanguage.4.0;1.0.85.cl240120240115-2042;false;1705354788000;114979;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.expressionLanguage.4.0_1.0.85.jar
@@ -623,6 +642,7 @@ com.ibm.ws.microprofile.reactive.streams.operators;1.0.85.cl240120240115-2042;fa
 com.ibm.ws.session.cache;1.0.85.cl240120240115-2042;false;1705354790000;130282;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.session.cache_1.0.85.jar
 com.ibm.ws.security.openidconnect.server;1.0.85.cl240120240115-2042;false;1705354790000;856497;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.openidconnect.server_1.0.85.jar
 com.ibm.ws.org.jboss.classfilewriter;1.2.85.cl240120240115-2042;false;1705354790000;120388;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.jboss.classfilewriter_1.2.85.jar
+com.ibm.websphere.appserver.spi.wsat;1.0.85.cl240120240115-2042;false;1705354788000;3791;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.wsat_1.0.85.jar
 io.openliberty.io.micrometer;1.0.85.cl240120240115-2042;false;1705354790000;986997;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.io.micrometer_1.0.85.jar
 io.openliberty.org.glassfish.hk2.osgi-resource-locator;1.0.85.cl240120240115-2042;false;1705354790000;18968;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.glassfish.hk2.osgi-resource-locator_1.0.85.jar
 com.ibm.ws.ejbcontainer.session;1.0.85.cl240120240115-2042;false;1705354788000;4821;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.ejbcontainer.session_1.0.85.jar
@@ -679,6 +699,7 @@ com.ibm.ws.messaging.comms.server;1.0.85.cl240120240115-2042;false;1705354788000
 com.ibm.ws.wsbytebuffer;1.0.85.cl240120240115-2042;false;1705354790000;70169;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.wsbytebuffer_1.0.85.jar
 com.ibm.ws.dynacache.web.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;246393;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.dynacache.web.jakarta_1.0.85.jar
 io.openliberty.jakarta.tags.3.0;1.0.85.cl240120240115-2042;false;1705354788000;43744;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.tags.3.0_1.0.85.jar
+com.ibm.websphere.appserver.spi.kernel.embeddable;1.1.85.cl240120240115-2042;false;1705354788000;12049;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.kernel.embeddable_1.1.85.jar
 com.ibm.ws.messaging.comms.client;1.0.85.cl240120240115-2042;false;1705354788000;740300;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.messaging.comms.client_1.0.85.jar
 io.openliberty.io.smallrye.config.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;313416;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.io.smallrye.config.jakarta_1.0.85.jar
 com.ibm.websphere.javaee.management.j2ee.1.1;1.0.85.cl240120240115-2042;false;1705354788000;28565;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.management.j2ee.1.1_1.0.85.jar
@@ -717,6 +738,7 @@ com.ibm.rls.jdbc.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;100577;l
 io.openliberty.org.eclipse.persistence-3.0;1.0.85.cl240120240115-2042;false;1705354790000;153874;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.eclipse.persistence-3.0_1.0.85.jar
 com.ibm.ws.jaxws.2.3.common.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;425412;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jaxws.2.3.common.jakarta_1.0.85.jar
 io.openliberty.org.eclipse.persistence-3.1;1.0.85.cl240120240115-2042;false;1705354790000;162539;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.eclipse.persistence-3.1_1.0.85.jar
+com.ibm.websphere.appserver.spi.ssl;1.5.85.cl240120240115-2042;false;1705354788000;5420;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.ssl_1.5.85.jar
 io.openliberty.security.wim.internal.base;1.1.85.cl240120240115-2042;false;1705354790000;236331;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.security.wim.internal.base_1.1.85.jar
 com.ibm.ws.cdi.internal.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;98854;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.cdi.internal.jakarta_1.0.85.jar
 com.ibm.ws.org.apache.santuario.xmlsec.2.2.0.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;1142178;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.santuario.xmlsec.2.2.0.jakarta_1.0.85.jar
@@ -724,6 +746,7 @@ com.ibm.ws.org.apache.wss4j.policy;2.3.85.cl240120240115-2042;false;170535479000
 io.openliberty.jsonsupport.internal;1.0.85.cl240120240115-2042;false;1705354790000;1040004;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.jsonsupport.internal_1.0.85.jar
 io.openliberty.org.apache.taglibs.standard.3.0;1.0.85.cl240120240115-2042;false;1705354790000;2178346;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.apache.taglibs.standard.3.0_1.0.85.jar
 com.ibm.ws.transaction.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;137497;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.transaction.jakarta_1.0.85.jar
+com.ibm.websphere.appserver.spi.wab.configure;1.0.85.cl240120240115-2042;false;1705354788000;3872;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.wab.configure_1.0.85.jar
 com.ibm.ws.org.apache.cxf.rt.security.3.4.1;1.0.85.cl240120240115-2042;false;1705354788000;42610;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.rt.security.3.4.1_1.0.85.jar
 io.openliberty.microprofile.context.cleared.internal;1.0.85.cl240120240115-2042;false;1705354790000;9489;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.microprofile.context.cleared.internal_1.0.85.jar
 com.ibm.ws.cdi.2.0.weld.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;35361;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.cdi.2.0.weld.jakarta_1.0.85.jar
@@ -732,16 +755,20 @@ io.openliberty.org.osgi.service.http;1.0.85.cl240120240115-2042;false;1705354790
 com.ibm.websphere.interrupt;1.0.85.cl240120240115-2042;false;1705354788000;4696;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.websphere.interrupt_1.0.85.jar
 com.ibm.ws.request.timing.jdbc;1.0.85.cl240120240115-2042;false;1705354790000;28131;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.request.timing.jdbc_1.0.85.jar
 com.ibm.ws.cdi.ejb.common;1.0.85.cl240120240115-2042;false;1705354788000;42978;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.cdi.ejb.common_1.0.85.jar
+com.ibm.websphere.appserver.spi.saml20;1.0.85.cl240120240115-2042;false;1705354788000;4978;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.saml20_1.0.85.jar
 com.ibm.ws.microprofile.config.1.4.services;1.0.85.cl240120240115-2042;false;1705354788000;5591;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.microprofile.config.1.4.services_1.0.85.jar
+io.openliberty.federatedRepository.spi;1.2.85.cl240120240115-2042;false;1705354788000;190087;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\io.openliberty.federatedRepository.spi_1.2.85.jar
 com.ibm.ws.io.smallrye.graphql;1.0.85.cl240120240115-2042;false;1705354788000;434220;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.io.smallrye.graphql_1.0.85.jar
 com.ibm.ws.security.saml.wab.2.0;1.0.85.cl240120240115-2042;false;1705354790000;115741;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.saml.wab.2.0_1.0.85.jar
 com.ibm.ws.session.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;301993;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.session.jakarta_1.0.85.jar
 com.ibm.ws.webserver.plugin.runtime.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;34323;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.webserver.plugin.runtime.jakarta_1.0.85.jar
+com.ibm.websphere.appserver.spi.globalhandler;1.0.85.cl240120240115-2042;false;1705354788000;5638;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.globalhandler_1.0.85.jar
 com.ibm.ws.security.csiv2.common;1.0.85.cl240120240115-2042;false;1705354790000;540645;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.csiv2.common_1.0.85.jar
 com.ibm.ws.com.graphql.java.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;3702798;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.com.graphql.java.jakarta_1.0.85.jar
 com.ibm.ws.net.shibboleth.utilities.java.support.7.5.1.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;274119;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.net.shibboleth.utilities.java.support.7.5.1.jakarta_1.0.85.jar
 io.openliberty.jakarta.security.2.0;1.0.85.cl240120240115-2042;false;1705354788000;42983;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.security.2.0_1.0.85.jar
 com.ibm.websphere.javaee.jcache.1.1.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;2596;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.websphere.javaee.jcache.1.1.jakarta_1.0.85.jar
+com.ibm.websphere.appserver.spi.federatedRepository;1.2.85.cl240120240115-2042;false;1705354788000;190031;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.federatedRepository_1.2.85.jar
 com.ibm.ws.request.probe.servlet;1.0.85.cl240120240115-2042;false;1705354790000;24177;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.request.probe.servlet_1.0.85.jar
 com.ibm.ws.jbatch.cdi.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;17312;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jbatch.cdi.jakarta_1.0.85.jar
 io.openliberty.jakarta.enterpriseBeans.4.0;1.0.85.cl240120240115-2042;false;1705354788000;59684;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.enterpriseBeans.4.0_1.0.85.jar
@@ -819,6 +846,7 @@ com.ibm.ws.microprofile.config.1.1;2.0.85.cl240120240115-2042;false;170535478800
 com.ibm.ws.org.apache.cxf.cxf.rt.management.3.2;1.0.85.cl240120240115-2042;false;1705354788000;66216;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.cxf.rt.management.3.2_1.0.85.jar
 com.ibm.ws.webservices.handler;1.0.85.cl240120240115-2042;false;1705354790000;13120;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.webservices.handler_1.0.85.jar
 com.ibm.ws.javaee.ddmodel;1.0.85.cl240120240115-2042;false;1705354788000;1219219;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.javaee.ddmodel_1.0.85.jar
+com.ibm.websphere.appserver.spi.openapi.3.1;1.0.85.cl240120240115-2042;false;1705354788000;3767;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.openapi.3.1_1.0.85.jar
 com.ibm.ws.org.apache.wss4j.bindings;2.3.85.cl240120240115-2042;false;1705354790000;43996;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.wss4j.bindings_2.3.85.jar
 io.openliberty.org.apache.myfaces.4.0;1.0.85.cl240120240115-2042;false;1705354790000;2631860;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.apache.myfaces.4.0_1.0.85.jar
 com.ibm.ws.org.opensaml.opensaml.messaging.api.3.4.5.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;57992;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.opensaml.opensaml.messaging.api.3.4.5.jakarta_1.0.85.jar
@@ -839,6 +867,7 @@ io.openliberty.facesContainer.4.0.internal.classloading;1.0.85.cl240120240115-20
 com.ibm.ws.dynacache.web.servlet31.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;10212;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.dynacache.web.servlet31.jakarta_1.0.85.jar
 com.ibm.ws.org.apache.cxf.cxf.rt.databinding.jaxb.3.2.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;127491;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.cxf.rt.databinding.jaxb.3.2.jakarta_1.0.85.jar
 com.ibm.ws.org.apache.cxf.rt.ws.mex.3.4.1.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;25225;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.rt.ws.mex.3.4.1.jakarta_1.0.85.jar
+io.openliberty.globalhandler.spi;1.0.85.cl240120240115-2042;false;1705354788000;5568;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\io.openliberty.globalhandler.spi_1.0.85.jar
 com.ibm.ws.security.sso.common;1.0.85.cl240120240115-2042;false;1705354790000;32787;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.sso.common_1.0.85.jar
 com.ibm.ws.org.apache.yoko.core.1.5;1.0.85.cl240120240115-2042;false;1705354790000;1264395;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.yoko.core.1.5_1.0.85.jar
 com.ibm.ws.security.mp.jwt.cdi;1.0.85.cl240120240115-2042;false;1705354790000;60262;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.mp.jwt.cdi_1.0.85.jar
@@ -877,6 +906,7 @@ io.openliberty.session.6.0.internal;1.0.85.cl240120240115-2042;false;17053547900
 io.openliberty.jakarta.xmlWS.3.0;1.0.85.cl240120240115-2042;false;1705354788000;59157;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.xmlWS.3.0_1.0.85.jar
 com.ibm.ws.artifact.url;1.0.85.cl240120240115-2042;false;1705354788000;27015;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.artifact.url_1.0.85.jar
 io.openliberty.netty.internal.tls.impl;1.0.85.cl240120240115-2042;false;1705354790000;13356;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.netty.internal.tls.impl_1.0.85.jar
+com.ibm.websphere.appserver.spi.kernel.metatype;1.0.85.cl240120240115-2042;false;1705354788000;4074;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.kernel.metatype_1.0.85.jar
 io.openliberty.cdi.4.0.internal.services.fragment;1.0.85.cl240120240115-2042;false;1705354790000;2935;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.cdi.4.0.internal.services.fragment_1.0.85.jar
 io.openliberty.webservices.handler;1.0.85.cl240120240115-2042;false;1705354790000;13184;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.webservices.handler_1.0.85.jar
 io.openliberty.jakarta.pages.tld.3.1;1.0.85.cl240120240115-2042;false;1705354788000;421661;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.pages.tld.3.1_1.0.85.jar
@@ -910,6 +940,7 @@ io.openliberty.security.oidcclientcore.internal.jakarta;1.0.85.cl240120240115-20
 com.ibm.ws.org.apache.commons.io;1.0.85.cl240120240115-2042;false;1705354788000;327244;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.commons.io_1.0.85.jar
 io.openliberty.rest.handler.config.openapi.common.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;26326;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.rest.handler.config.openapi.common.jakarta_1.0.85.jar
 com.ibm.ws.wsoc.2.1.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;5843;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.wsoc.2.1.jakarta_1.0.85.jar
+com.ibm.websphere.appserver.spi.kernel.service;1.8.85.cl240120240115-2042;false;1705354788000;121981;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.kernel.service_1.8.85.jar
 com.ibm.ws.org.opensaml.opensaml.messaging.api.3.4.5;1.0.85.cl240120240115-2042;false;1705354790000;57810;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.opensaml.opensaml.messaging.api.3.4.5_1.0.85.jar
 io.openliberty.cdi.4.0.internal.web;1.0.85.cl240120240115-2042;false;1705354790000;6577;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.cdi.4.0.internal.web_1.0.85.jar
 com.ibm.ws.crypto.passwordutil;1.0.85.cl240120240115-2042;false;1705354788000;80584;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.crypto.passwordutil_1.0.85.jar
@@ -947,15 +978,18 @@ io.openliberty.org.jboss.resteasy.cdi;1.0.85.cl240120240115-2042;false;170535479
 com.ibm.ws.jsonb.service;1.0.85.cl240120240115-2042;false;1705354788000;11883;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.jsonb.service_1.0.85.jar
 com.ibm.ws.org.apache.cxf.cxf.rt.bindings.soap.3.2.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;191255;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.cxf.rt.bindings.soap.3.2.jakarta_1.0.85.jar
 com.ibm.ws.repository;1.0.85.cl240120240115-2042;false;1705354790000;281586;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.repository_1.0.85.jar
+io.openliberty.jaspic.spi;1.1.85.cl240120240115-2042;false;1705354788000;3716;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\io.openliberty.jaspic.spi_1.1.85.jar
 com.ibm.websphere.javaee.jsp.2.2;1.0.85.cl240120240115-2042;false;1705354788000;71059;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.jsp.2.2_1.0.85.jar
 com.ibm.ws.crypto.certificateutil;1.0.85.cl240120240115-2042;false;1705354788000;12662;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.crypto.certificateutil_1.0.85.jar
 io.openliberty.security.mp.jwt.internal;1.0.85.cl240120240115-2042;false;1705354790000;168793;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.security.mp.jwt.internal_1.0.85.jar
 com.ibm.ws.timer;1.0.85.cl240120240115-2042;false;1705354790000;7075;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.timer_1.0.85.jar
 com.ibm.ws.javamail.1.6;1.6.85.cl240120240115-2042;false;1705354788000;40053;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.javamail.1.6_1.6.85.jar
 io.openliberty.microprofile.metrics.5.0.monitor.internal;1.0.85.cl240120240115-2042;false;1705354790000;261128;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.microprofile.metrics.5.0.monitor.internal_1.0.85.jar
+com.ibm.websphere.appserver.spi.application;1.1.85.cl240120240115-2042;false;1705354788000;8262;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.application_1.1.85.jar
 com.ibm.ws.security.social;1.0.85.cl240120240115-2042;false;1705354790000;459804;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.social_1.0.85.jar
 io.openliberty.io.netty;1.0.85.cl240120240115-2042;false;1705354790000;3246005;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.io.netty_1.0.85.jar
 com.ibm.jbatch.container.jakarta.ee10;1.0.85.cl240120240115-2042;false;1705354788000;967910;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.jbatch.container.jakarta.ee10_1.0.85.jar
+com.ibm.websphere.appserver.spi.servlet;2.13.85.cl240120240115-2042;false;1705354788000;171256;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.servlet_2.13.85.jar
 io.openliberty.jakarta.websocket.2.0;1.0.85.cl240120240115-2042;false;1705354788000;48514;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.websocket.2.0_1.0.85.jar
 io.openliberty.jakarta.websocket.2.1;1.0.85.cl240120240115-2042;false;1705354788000;23013;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\io.openliberty.jakarta.websocket.2.1_1.0.85.jar
 com.ibm.ws.logging.osgi;1.0.85.cl240120240115-2042;false;1705354788000;279874;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.logging.osgi_1.0.85.jar
@@ -1028,6 +1062,7 @@ com.ibm.ws.microprofile.faulttolerance.2.0;1.0.85.cl240120240115-2042;false;1705
 com.ibm.websphere.javaee.annotation.1.3;1.0.85.cl240120240115-2042;false;1705354788000;12737;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.annotation.1.3_1.0.85.jar
 com.ibm.ws.security.mp.jwt.proxy;1.0.85.cl240120240115-2042;false;1705354790000;7428;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.mp.jwt.proxy_1.0.85.jar
 com.ibm.websphere.javaee.annotation.1.2;1.0.85.cl240120240115-2042;false;1705354788000;12670;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.annotation.1.2_1.0.85.jar
+com.ibm.websphere.appserver.spi.httptransport;4.2.85.cl240120240115-2042;false;1705354788000;15917;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.httptransport_4.2.85.jar
 com.ibm.websphere.javaee.annotation.1.1;1.0.85.cl240120240115-2042;false;1705354788000;10172;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.annotation.1.1_1.0.85.jar
 com.ibm.ws.opentracing;1.0.85.cl240120240115-2042;false;1705354788000;111850;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.opentracing_1.0.85.jar
 com.ibm.ws.ui.servlet.filter;1.0.85.cl240120240115-2042;false;1705354790000;5174;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.ui.servlet.filter_1.0.85.jar
@@ -1053,6 +1088,7 @@ com.ibm.ws.tx.jta.extensions.jakarta;1.0.85.cl240120240115-2042;false;1705354790
 com.ibm.websphere.javaee.jms.2.0;1.0.85.cl240120240115-2042;false;1705354788000;50135;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.jms.2.0_1.0.85.jar
 com.ibm.ws.logging.hpel.osgi;1.0.85.cl240120240115-2042;false;1705354788000;42011;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.logging.hpel.osgi_1.0.85.jar
 com.ibm.ws.security.acme;1.0.85.cl240120240115-2042;false;1705354790000;630483;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.acme_1.0.85.jar
+com.ibm.websphere.appserver.spi.jsp;1.0.85.cl240120240115-2042;false;1705354788000;5928;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.jsp_1.0.85.jar
 io.openliberty.security.oauth.internal.2.0;1.1.85.cl240120240115-2042;false;1705354790000;1170419;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.security.oauth.internal.2.0_1.1.85.jar
 com.ibm.ws.security.authentication.builtin;1.0.85.cl240120240115-2042;false;1705354790000;182874;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.authentication.builtin_1.0.85.jar
 com.ibm.ws.com.fasterxml.classmate;1.0.85.cl240120240115-2042;false;1705354788000;63449;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.com.fasterxml.classmate_1.0.85.jar
@@ -1090,6 +1126,7 @@ com.ibm.ws.beanvalidation;1.0.85.cl240120240115-2042;false;1705354788000;105905;
 com.ibm.ws.org.apache.cxf.rt.ws.security.3.4.1.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;719447;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.rt.ws.security.3.4.1.jakarta_1.0.85.jar
 com.ibm.websphere.javaee.security.1.0;1.0.85.cl240120240115-2042;false;1705354788000;30101;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.security.1.0_1.0.85.jar
 com.ibm.json4j;1.0.85.cl240120240115-2042;false;1705354788000;37679;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.json4j_1.0.85.jar
+com.ibm.websphere.appserver.spi.containerServices;4.0.85.cl240120240115-2042;false;1705354788000;60638;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.containerServices_4.0.85.jar
 io.openliberty.org.jboss.classfilewriter.1.3;1.3.85.cl240120240115-2042;false;1705354790000;121509;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.org.jboss.classfilewriter.1.3_1.3.85.jar
 com.ibm.ws.org.apache.cxf.cxf.rt.frontend.simple.3.2.jakarta;1.0.85.cl240120240115-2042;false;1705354788000;99911;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.org.apache.cxf.cxf.rt.frontend.simple.3.2.jakarta_1.0.85.jar
 io.openliberty.wsoc.2.1.internal;1.0.85.cl240120240115-2042;false;1705354790000;15185;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\io.openliberty.wsoc.2.1.internal_1.0.85.jar
@@ -1117,6 +1154,8 @@ io.openliberty.security.openidconnect.internal.clients.common;1.0.85.cl240120240
 com.ibm.ws.security.saml.websso.2.0.jakarta;1.0.85.cl240120240115-2042;false;1705354790000;464578;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.saml.websso.2.0.jakarta_1.0.85.jar
 com.ibm.ws.security.csiv2.client;1.0.85.cl240120240115-2042;false;1705354790000;52064;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.security.csiv2.client_1.0.85.jar
 com.ibm.jbatch.spi;1.0.85.cl240120240115-2042;false;1705354788000;8907;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.jbatch.spi_1.0.85.jar
+com.ibm.websphere.appserver.spi.opentracing.1.1;1.0.85.cl240120240115-2042;false;1705354788000;3963;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.opentracing.1.1_1.0.85.jar
+com.ibm.websphere.appserver.spi.opentracing.1.2;1.0.85.cl240120240115-2042;false;1705354788000;3962;dev/spi/ibm/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\spi\ibm\com.ibm.websphere.appserver.spi.opentracing.1.2_1.0.85.jar
 com.ibm.ws.tx.jta.extensions;1.0.85.cl240120240115-2042;false;1705354790000;15759;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.tx.jta.extensions_1.0.85.jar
 com.ibm.ws.webcontainer.security;1.0.85.cl240120240115-2042;false;1705354790000;341931;lib/;D:\mine\JEE\authentication\project\target\liberty\wlp\lib\com.ibm.ws.webcontainer.security_1.0.85.jar
 com.ibm.websphere.javaee.persistence.2.2;1.0.85.cl240120240115-2042;false;1705354788000;175766;dev/api/spec/;D:\mine\JEE\authentication\project\target\liberty\wlp\dev\api\spec\com.ibm.websphere.javaee.persistence.2.2_1.0.85.jar

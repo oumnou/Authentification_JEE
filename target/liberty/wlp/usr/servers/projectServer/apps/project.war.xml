@@ -9,5 +9,11 @@
     <file sourceOnDisk="C:\Users\21269\.m2\repository\com\oracle\database\security\osdt_core\19.3.0.0\osdt_core-19.3.0.0.jar" targetInArchive="/WEB-INF/lib/osdt_core-19.3.0.0.jar"/>
     <file sourceOnDisk="C:\Users\21269\.m2\repository\com\oracle\database\ha\simplefan\19.3.0.0\simplefan-19.3.0.0.jar" targetInArchive="/WEB-INF/lib/simplefan-19.3.0.0.jar"/>
     <file sourceOnDisk="C:\Users\21269\.m2\repository\com\oracle\database\ha\ons\19.3.0.0\ons-19.3.0.0.jar" targetInArchive="/WEB-INF/lib/ons-19.3.0.0.jar"/>
+    <file sourceOnDisk="C:\Users\21269\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar" targetInArchive="/WEB-INF/lib/jakarta.enterprise.cdi-api-4.0.1.jar"/>
+    <file sourceOnDisk="C:\Users\21269\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar" targetInArchive="/WEB-INF/lib/jakarta.enterprise.lang-model-4.0.1.jar"/>
+    <file sourceOnDisk="C:\Users\21269\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.0\jakarta.annotation-api-2.1.0.jar" targetInArchive="/WEB-INF/lib/jakarta.annotation-api-2.1.0.jar"/>
+    <file sourceOnDisk="C:\Users\21269\.m2\repository\jakarta\el\jakarta.el-api\5.0.0\jakarta.el-api-5.0.0.jar" targetInArchive="/WEB-INF/lib/jakarta.el-api-5.0.0.jar"/>
+    <file sourceOnDisk="C:\Users\21269\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar" targetInArchive="/WEB-INF/lib/jakarta.interceptor-api-2.1.0.jar"/>
+    <file sourceOnDisk="C:\Users\21269\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar" targetInArchive="/WEB-INF/lib/jakarta.inject-api-2.0.1.jar"/>
     <file sourceOnDisk="D:\mine\JEE\authentication\project\target\tmp\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
 </archive>
