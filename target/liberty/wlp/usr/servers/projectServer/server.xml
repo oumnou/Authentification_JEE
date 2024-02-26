@@ -27,7 +27,7 @@
     </library>
     <dataSource jndiName="jdbc/myDB">
         <jdbcDriver libraryRef="jdbcLib"/>
-        <properties serverName="localhost" portNumber="1521" databaseName="user_accounts" user="system" password="hello"/>
+        <properties serverName="localhost" url="jdbc:oracle:thin:@android:1521:xe" portNumber="1521" databaseName="user_accounts" user="system" password="hello"/>
     </dataSource>
             
     <httpEndpoint httpPort="9010" httpsPort="9443" id="defaultHttpEndpoint" />
