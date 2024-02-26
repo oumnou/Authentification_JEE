@@ -1,0 +1,25 @@
+------Start of DE processing------ = [2/26/24, 10:47:35:464 WEST ]
+Exception = java.lang.IllegalArgumentException
+Source = com.ibm.ws.kernel.feature.internal.FeatureManager
+probeid = reportErrors
+Stack Dump = java.lang.IllegalArgumentException: Unable to load conflicting versions of features "io.openliberty.servlet.api-5.0" and "io.openliberty.servlet.api-6.0".  The feature dependency chains that led to the conflict are: io.openliberty.pages-3.0 -> io.openliberty.jakarta.pages-3.0 -> io.openliberty.servlet.api-5.0 and io.openliberty.cdi-4.0 -> io.openliberty.servlet.api-6.0
+	at com.ibm.ws.kernel.feature.internal.FeatureManager.reportErrors(FeatureManager.java:1905)
+	at com.ibm.ws.kernel.feature.internal.FeatureManager.updateFeatures(FeatureManager.java:1431)
+	at com.ibm.ws.kernel.feature.internal.FeatureManager.update(FeatureManager.java:777)
+	at com.ibm.ws.kernel.feature.internal.FeatureManager.processFeatureChanges(FeatureManager.java:890)
+	at com.ibm.ws.kernel.feature.internal.FeatureManager$1.run(FeatureManager.java:677)
+	at com.ibm.ws.threading.internal.ExecutorServiceImpl$RunnableWrapper.run(ExecutorServiceImpl.java:280)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Dump of callerThis
+null
+Dump of objectArray[0]
+Object type = java.lang.String
+  String value = "io.openliberty.servlet.api"
+
+Dump of objectArray[1]
+Object type = java.lang.String
+  String value = "[ROOT->io.openliberty.pages-3.0->io.openliberty.jakarta.pages-3.0->[io.openliberty.servlet.api-5.0] 5.0.0, ROOT->io.openliberty.cdi-4.0->[io.openliberty.servlet.api-6.0] 6.0.0]"
+

@@ -1,0 +1,25 @@
+------Start of DE processing------ = [2/26/24, 10:38:18:504 WEST ]
+Exception = java.lang.IllegalArgumentException
+Source = com.ibm.ws.kernel.feature.internal.FeatureManager
+probeid = reportErrors
+Stack Dump = java.lang.IllegalArgumentException: Unable to load conflicting versions of features "com.ibm.websphere.appserver.servlet-6.0" and "com.ibm.websphere.appserver.servlet-3.1".  The feature dependency chains that led to the conflict are: com.ibm.websphere.appserver.servlet-6.0 and com.ibm.websphere.appserver.jsp-2.3 -> com.ibm.websphere.appserver.servlet-3.1
+	at com.ibm.ws.kernel.feature.internal.FeatureManager.reportErrors(FeatureManager.java:1905)
+	at com.ibm.ws.kernel.feature.internal.FeatureManager.updateFeatures(FeatureManager.java:1431)
+	at com.ibm.ws.kernel.feature.internal.FeatureManager.update(FeatureManager.java:777)
+	at com.ibm.ws.kernel.feature.internal.FeatureManager.processFeatureChanges(FeatureManager.java:890)
+	at com.ibm.ws.kernel.feature.internal.FeatureManager$1.run(FeatureManager.java:677)
+	at com.ibm.ws.threading.internal.ExecutorServiceImpl$RunnableWrapper.run(ExecutorServiceImpl.java:280)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Dump of callerThis
+null
+Dump of objectArray[0]
+Object type = java.lang.String
+  String value = "com.ibm.websphere.appserver.servlet"
+
+Dump of objectArray[1]
+Object type = java.lang.String
+  String value = "[ROOT->[com.ibm.websphere.appserver.servlet-6.0] 6.0.0, ROOT->com.ibm.websphere.appserver.jsp-2.3->[com.ibm.websphere.appserver.servlet-3.1, com.ibm.websphere.appserver.servlet-4.0] 3.1.0]"
+

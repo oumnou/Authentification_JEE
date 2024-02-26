@@ -12,7 +12,7 @@
   // Format the current date
   String formattedDate = dateFormat.format(currentDate);
 %>
-<%@ page import="javax.servlet.http.Cookie" %>
+<%@ page import="jakarta.servlet.http.Cookie" %>
 <%
     // Check if the cookie indicating user login is present
     boolean isLoggedIn = false;

@@ -1,0 +1,10 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      1 2/26/24, 10:43:43:062 WEST  2/26/24, 10:43:43:062 WEST  com.ibm.wsspi.adaptable.module.UnableToAdaptException com.ibm.ws.app.manager.module.internal.ContextRootUtil 45
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.43.43.0.log
+     1      1 2/26/24, 10:43:43:105 WEST  2/26/24, 10:43:43:105 WEST  com.ibm.wsspi.adaptable.module.UnableToAdaptException com.ibm.ws.app.manager.war.internal.WARApplicationHandlerImpl 53
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.43.43.1.log
+     2      1 2/26/24, 10:43:43:228 WEST  2/26/24, 10:43:43:228 WEST  java.lang.IllegalStateException com.ibm.ws.app.manager.internal.statemachine.StartAction 190
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.43.43.2.log
+------+------+---------------------------+---------------------------+---------------------------

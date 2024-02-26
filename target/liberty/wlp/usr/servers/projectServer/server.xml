@@ -17,6 +17,7 @@
     <featureManager>
     
         <feature>servlet-6.0</feature>
+        <feature>pages-3.1</feature>
         <feature>cdi-4.0</feature>
         <feature>jdbc-4.3</feature>
         
@@ -30,6 +31,5 @@
     </dataSource>
             
     <httpEndpoint httpPort="9010" httpsPort="9443" id="defaultHttpEndpoint" />
-    
     <webApplication id="project" location="project.war" name="project"/>
 </server>

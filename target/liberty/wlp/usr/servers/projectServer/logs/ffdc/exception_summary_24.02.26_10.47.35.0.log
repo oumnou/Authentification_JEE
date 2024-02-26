@@ -1,0 +1,12 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      5 2/26/24, 10:47:35:442 WEST  2/26/24, 10:47:35:469 WEST  java.lang.IllegalArgumentException com.ibm.ws.kernel.feature.internal.FeatureManager reportErrors
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.47.35.0.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.47.35.1.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.47.35.2.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.47.35.3.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.47.35.4.log
+     1      1 2/26/24, 10:56:00:466 WEST  2/26/24, 10:56:00:466 WEST  java.lang.NoClassDefFoundError com.ibm.ws.injectionengine.InjectionProcessorManager.getAllDeclaredFields 249
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_10.56.00.0.log
+------+------+---------------------------+---------------------------+---------------------------
