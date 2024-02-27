@@ -29,7 +29,7 @@ IBM-API-Package: javax.faces; type=spec,
  org.apache.myfaces.shared.renderkit.html.util; type=third-party
 IBM-App-ForceRestart: install,
  uninstall
-IBM-AppliesTo: io.openliberty;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

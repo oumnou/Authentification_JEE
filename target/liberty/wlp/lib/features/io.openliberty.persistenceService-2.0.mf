@@ -1,6 +1,6 @@
 Created-By: 17.0.4.1 (IBM Corporation)
 IBM-API-Package: com.ibm.websphere.persistence.mbean; type="ibm-api"
-IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

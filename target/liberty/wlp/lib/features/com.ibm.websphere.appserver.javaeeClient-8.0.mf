@@ -85,7 +85,7 @@ IBM-API-Package: com.ibm.ws.ejb.portable; type=internal,
  javax.wsdl.factory; type=spec,
  javax.wsdl.xml; type=spec,
  javax.wsdl; type=spec
-IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

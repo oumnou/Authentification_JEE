@@ -4,7 +4,7 @@ IBM-API-Package: org.apache.ws.security; type=third-party,
  org.apache.wss4j.common.ext; type=third-party,
  org.apache.wss4j.common.crypto; type=third-party,
  com.ibm.ws.wssecurity.callback; version="1.0"; type=internal
-IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

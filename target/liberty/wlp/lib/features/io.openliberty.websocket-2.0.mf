@@ -4,7 +4,7 @@ IBM-API-Package: jakarta.websocket; version="2.0"; type=spec,
  com.ibm.websphere.wsoc; type=ibm-api
 IBM-App-ForceRestart: install,
  uninstall
-IBM-AppliesTo: io.openliberty;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

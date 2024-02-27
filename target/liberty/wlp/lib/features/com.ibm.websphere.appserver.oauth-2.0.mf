@@ -8,7 +8,7 @@ IBM-API-Package: com.ibm.wsspi.security.oauth20.token; type=ibm-api,
  com.ibm.websphere.security.oauth20; type=ibm-api,
  com.ibm.websphere.security.oauth20.store; type=ibm-api,
  com.ibm.websphere.security.openidconnect.token; type=ibm-api
-IBM-AppliesTo: io.openliberty;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

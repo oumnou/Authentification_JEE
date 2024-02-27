@@ -24,7 +24,7 @@ IBM-API-Package: jakarta.ws.rs; type=spec,
  jakarta.annotation.sql; type=spec
 IBM-App-ForceRestart: uninstall,
  install
-IBM-AppliesTo: io.openliberty;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA
@@ -57,7 +57,7 @@ Subsystem-Content: io.openliberty.jaxrs30_1.0-javadoc.zip; type=file; location:=
  com.ibm.websphere.appserver.jndi-1.0; type="osgi.subsystem.feature",
  io.openliberty.activation.internal-2.1; type="osgi.subsystem.feature",
  io.openliberty.jsonp-2.1; type="osgi.subsystem.feature",
- io.openliberty.jaxrs30; location:="dev/api/ibm/,lib/"; version="[1.0.0,1.0.200)",
+ io.openliberty.jaxrs30; location:="dev/api/ibm/,lib/"; type=jar; version="[1.0.0,1.0.200)",
  com.ibm.ws.jaxrs.2.x.config; version="[1.0.0,1.0.200)",
  io.openliberty.org.apache.commons.codec; version="[1.15.0,1.15.200)",
  io.openliberty.org.apache.commons.logging; version="[1.2.0,1.2.200)",

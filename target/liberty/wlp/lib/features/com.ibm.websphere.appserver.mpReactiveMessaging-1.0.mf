@@ -4,7 +4,7 @@ IBM-API-Package: org.eclipse.microprofile.reactive.messaging; type=stable,
  com.ibm.ws.kafka.security; type=internal
 IBM-App-ForceRestart: install,
  uninstall
-IBM-AppliesTo: io.openliberty;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

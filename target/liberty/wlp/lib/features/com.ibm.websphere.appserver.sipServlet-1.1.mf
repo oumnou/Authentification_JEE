@@ -12,7 +12,7 @@ IBM-API-Package: javax.servlet.sip.annotation; type=spec,
  com.ibm.websphere.endpoint; type=ibm-api
 IBM-App-ForceRestart: install,
  uninstall
-IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

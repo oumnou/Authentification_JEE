@@ -1,7 +1,7 @@
 Created-By: 17.0.4.1 (IBM Corporation)
 IBM-API-Package: org.eclipse.microprofile.metrics.annotation; type=stable,
  org.eclipse.microprofile.metrics; type=stable
-IBM-AppliesTo: io.openliberty;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

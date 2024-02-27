@@ -2,7 +2,7 @@ Created-By: 17.0.4.1 (IBM Corporation)
 IBM-API-Package: javax.management.j2ee; type=spec,
  javax.management.j2ee.statistics; type=spec,
  org.omg.stub.javax.management.j2ee; type=spec
-IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

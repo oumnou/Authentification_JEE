@@ -1,0 +1,11 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      1 2/26/24, 14:30:55:991 WEST  2/26/24, 14:30:55:991 WEST  java.lang.NullPointerException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_14.30.55.0.log
+     1     22 2/26/24, 14:34:03:081 WEST  2/26/24, 14:39:24:843 WEST  java.lang.NoClassDefFoundError com.ibm.ws.injectionengine.InjectionProcessorManager.getAllDeclaredFields 249
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_14.34.03.0.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_14.34.15.0.log
+     2     21 2/26/24, 14:34:03:163 WEST  2/26/24, 14:36:39:977 WEST  org.jboss.weld.resources.spi.ResourceLoadingException com.ibm.ws.cdi.impl.weld.BeanDeploymentArchiveImpl 987
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.26_14.34.03.1.log
+------+------+---------------------------+---------------------------+---------------------------

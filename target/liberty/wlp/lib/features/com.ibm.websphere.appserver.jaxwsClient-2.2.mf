@@ -21,7 +21,7 @@ IBM-API-Package: javax.jws; type=spec; require-java:=9,
  javax.wsdl; type=spec
 IBM-App-ForceRestart: uninstall,
  install
-IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.1"
+IBM-AppliesTo: io.openliberty;productEdition=Open;productVersion="24.0.0.2"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

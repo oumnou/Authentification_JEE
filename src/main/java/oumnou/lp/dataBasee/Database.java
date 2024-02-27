@@ -13,9 +13,15 @@ import oumnou.lp.model.User;
 
 public class Database {
     
-    static final Connection connection = DatabaseConnection.getConnection();
+    
+    Connection connection ;
 
-     public static User getUser(HttpServletRequest request)  {
+    public Database(Connection connection){
+        this.connection = connection;
+    }
+
+
+    public User getUser(HttpServletRequest request)  {
         String email = request.getParameter("email");
         String password = request.getParameter("password");
         String query = "SELECT * FROM user_accounts where email = ? AND password = ?";
@@ -46,7 +52,7 @@ public class Database {
         }
         return null;
     }
-    public static User addUser(HttpServletRequest request)   {
+    public  User addUser(HttpServletRequest request)   {
         String query = "INSERT INTO user_accounts (email, password, first_name, last_name, username) VALUES (?, ?, ?, ?, ?)";
         
         String email = request.getParameter("email");
@@ -65,7 +71,6 @@ public class Database {
             
             
 
-            Connection connection = DatabaseConnection.getConnection();
 
             PreparedStatement statement = connection.prepareStatement(query);
                 statement.setString(1, email);
@@ -89,7 +94,7 @@ public class Database {
         }
       
 }    
-    static boolean emailExists(String email) throws SQLException {
+     boolean emailExists(String email) throws SQLException {
         String query = "SELECT * FROM user_accounts where email = ?";
         Connection connection = DatabaseConnection.getConnection();
 
