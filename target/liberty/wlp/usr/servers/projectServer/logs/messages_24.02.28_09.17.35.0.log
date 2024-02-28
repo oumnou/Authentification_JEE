@@ -1,0 +1,267 @@
+********************************************************************************
+product = Open Liberty 24.0.0.2 (wlp-1.0.86.cl240220240212-1928)
+wlp.install.dir = D:/mine/JEE/authentication/project/target/liberty/wlp/
+java.home = C:\Program Files\Java\jdk-21
+java.version = 21.0.2
+java.runtime = Java(TM) SE Runtime Environment (21.0.2+13-LTS-58)
+os = Windows 11 (10.0; amd64) (en_US)
+process = 18756@Android
+Classpath = D:\mine\JEE\authentication\project\target\liberty\wlp\bin\tools\ws-server.jar
+Java Library path = C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\21269\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\21269\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;D:\app\OumNou\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts;C:\Python310;C:\Windows\System32\HWAudioDriverLibs;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\composer;C:\php-8.1.10;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\dotnet;C:\Program Files\apache-maven-3.9.6\bin;C:\Program Files\Java\jre-1.8\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\21269\AppData\Local\Microsoft\WindowsApps;C:\Users\21269\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\21269;C:\php-8.1.10;C:\MinGW\bin;C:\Users\21269\AppData\Roaming\Composer\vendor\bin;C:\Users\21269\AppData\Local\ComposerSetup\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.2\bin;C:\Users\21269\AppData\Local\GitHubDesktop\bin;C:\Swift\bin;C:\Users\21269\flutter\bin;C:\Users\21269\AppData\Local\Android\Sdk;JAVA_HOME%\bin;C:\Program Files\Java\jdk-20;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Java\jre-1.8;C:\Users\21269\.dotnet\tools;C:\Program Files\apache-maven-3.9.6\bin;C:\Program Files\Java\jre-1.8\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.
+********************************************************************************
+[2/28/24, 9:13:45:217 WEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server projectServer has been launched.
+[2/28/24, 9:13:46:015 WEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 1.173 seconds
+[2/28/24, 9:13:46:085 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[2/28/24, 9:13:46:335 WEST] 0000002a com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: Monitoring dropins for applications.
+[2/28/24, 9:13:46:718 WEST] 0000003e com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:13:46:719 WEST] 0000003e bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:13:47:357 WEST] 0000003e org.jboss.weld.Version                                       I WELD-000900: 5.1.1 (SP1)
+[2/28/24, 9:13:48:109 WEST] 0000003e com.ibm.ws.session.WASSessionCore                            I SESN8501I: The session manager did not find a persistent storage location; HttpSession objects will be stored in the local application server's memory.
+[2/28/24, 9:13:48:116 WEST] 0000003e com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:13:48:118 WEST] 0000003e com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:13:48:119 WEST] 0000003e com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:13:48:138 WEST] 0000004b com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:13:48:144 WEST] 0000004b com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:13:48:153 WEST] 00000039 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:13:48:236 WEST] 0000004b com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: Application project started in 1.518 seconds.
+[2/28/24, 9:13:48:252 WEST] 00000034 com.ibm.ws.tcpchannel.internal.TCPPort                       I CWWKO0219I: TCP Channel defaultHttpEndpoint has been started and is now listening for requests on host kubernetes.docker.internal  (IPv4: 127.0.0.1) port 9010.
+[2/28/24, 9:13:48:275 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [cdi-4.0, expressionLanguage-5.0, jdbc-4.3, pages-3.1, servlet-6.0].
+[2/28/24, 9:13:48:276 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 2.261 seconds.
+[2/28/24, 9:13:48:276 WEST] 00000034 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: The projectServer server is ready to run a smarter planet. The projectServer server started in 3.435 seconds.
+[2/28/24, 9:13:53:751 WEST] 0000003e com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [/index.jsp]: Initialization successful.
+[2/28/24, 9:13:55:610 WEST] 00000039 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [/signup.jsp]: Initialization successful.
+[2/28/24, 9:14:00:031 WEST] 00000049 com.ibm.ws.jca.cm.ConnectorService                           I J2CA8050I: An authentication alias should be used instead of defining a user name and password on dataSource[default-0].
+[2/28/24, 9:14:00:642 WEST] 00000049 com.ibm.ws.recoverylog.spi.RecoveryDirectorImpl              I CWRLS0010I: Performing recovery processing for local WebSphere server (projectServer).
+[2/28/24, 9:14:00:783 WEST] 00000049 com.ibm.ws.recoverylog.spi.RecoveryDirectorImpl              I CWRLS0012I: All persistent services have been directed to perform recovery processing for this WebSphere server (projectServer).
+[2/28/24, 9:14:00:783 WEST] 0000004f com.ibm.tx.jta.impl.RecoveryManager                          I WTRN0135I: Transaction service recovering no transactions.
+[2/28/24, 9:14:01:544 WEST] 00000049 com.ibm.ws.rsadapter.impl.DatabaseHelper                     I DSRA8203I: Database product name : MySQL
+[2/28/24, 9:14:01:559 WEST] 00000049 com.ibm.ws.rsadapter.impl.DatabaseHelper                     I DSRA8204I: Database product version : 5.5.5-10.4.32-MariaDB
+[2/28/24, 9:14:01:559 WEST] 00000049 com.ibm.ws.rsadapter.impl.DatabaseHelper                     I DSRA8205I: JDBC driver name  : MySQL Connector/J
+[2/28/24, 9:14:01:559 WEST] 00000049 com.ibm.ws.rsadapter.impl.DatabaseHelper                     I DSRA8206I: JDBC driver version  : mysql-connector-java-8.0.28 (Revision: 7ff2161da3899f379fb3171b6538b191b1c5c7e2)
+[2/28/24, 9:14:01:607 WEST] 00000049 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [oumnou.lp.HelloServlet]: Initialization successful.
+[2/28/24, 9:14:28:599 WEST] 00000049 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:14:28:600 WEST] 00000049 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [project] [/project] [oumnou.lp.HelloServlet]: Destroy successful.
+[2/28/24, 9:14:28:601 WEST] 00000049 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [project] [/project] [/index.jsp]: Destroy successful.
+[2/28/24, 9:14:28:601 WEST] 00000049 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [project] [/project] [/signup.jsp]: Destroy successful.
+[2/28/24, 9:14:28:617 WEST] 00000049 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:14:28:624 WEST] 00000049 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:14:28:624 WEST] 00000049 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:14:28:892 WEST] 00000039 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:14:29:166 WEST] 00000049 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:14:29:167 WEST] 00000049 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:14:29:167 WEST] 00000049 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:14:29:168 WEST] 00000042 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:14:29:168 WEST] 00000042 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:14:29:196 WEST] 00000049 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:14:29:208 WEST] 00000042 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.584 seconds.
+[2/28/24, 9:14:31:635 WEST] 00000042 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:14:31:640 WEST] 00000042 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:14:31:647 WEST] 00000042 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:14:31:647 WEST] 00000042 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:14:31:658 WEST] 00000045 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:14:32:070 WEST] 00000042 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:14:32:070 WEST] 00000042 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:14:32:071 WEST] 00000042 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:14:32:072 WEST] 00000036 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:14:32:072 WEST] 00000036 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:14:32:093 WEST] 00000042 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:14:32:130 WEST] 00000036 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.483 seconds.
+[2/28/24, 9:14:32:670 WEST] 00000048 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:14:32:676 WEST] 00000048 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:14:32:688 WEST] 00000048 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:14:32:688 WEST] 00000048 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:14:32:724 WEST] 00000034 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:14:33:108 WEST] 00000048 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:14:33:108 WEST] 00000048 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:14:33:108 WEST] 00000048 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:14:33:110 WEST] 00000034 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:14:33:110 WEST] 00000034 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:14:33:149 WEST] 00000048 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:14:33:165 WEST] 00000034 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.477 seconds.
+[2/28/24, 9:14:36:258 WEST] 00000045 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:14:36:263 WEST] 00000045 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:14:36:269 WEST] 00000045 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:14:36:270 WEST] 00000045 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:14:36:279 WEST] 00000034 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:14:36:532 WEST] 00000045 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:14:36:532 WEST] 00000045 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:14:36:533 WEST] 00000045 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:14:36:533 WEST] 00000036 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:14:36:534 WEST] 00000036 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:14:36:550 WEST] 00000044 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:14:36:561 WEST] 00000036 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.291 seconds.
+[2/28/24, 9:14:48:275 WEST] 00000038 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [oumnou.lp.HelloServlet]: Initialization successful.
+[2/28/24, 9:14:48:301 WEST] 00000038 SystemErr                                                    R java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/user_accounts
+[2/28/24, 9:14:48:301 WEST] 00000038 SystemErr                                                    R 	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:708)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at oumnou.lp.dataBasee.DatabaseConnection.getConnection(DatabaseConnection.java:15)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at oumnou.lp.dataBasee.Database.emailExists(Database.java:96)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at oumnou.lp.dataBasee.Database.addUser(Database.java:60)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at oumnou.lp.HelloServlet.doPost(HelloServlet.java:112)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:547)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service(ServletWrapper.java:1260)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:748)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:445)
+[2/28/24, 9:14:48:506 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters(WebAppFilterManager.java:1361)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.webapp.WebApp.handleRequest(WebApp.java:5076)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.handleRequest(DynamicVirtualHost.java:328)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.WebContainer.handleRequest(WebContainer.java:1038)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.run(DynamicVirtualHost.java:293)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink$TaskWrapper.run(HttpDispatcherLink.java:1260)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.wrapHandlerAndExecute(HttpDispatcherLink.java:476)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.ready(HttpDispatcherLink.java:435)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleDiscrimination(HttpInboundLink.java:569)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleNewRequest(HttpInboundLink.java:503)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.processRequest(HttpInboundLink.java:363)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.ready(HttpInboundLink.java:330)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.NewConnectionInitialReadCallback.sendToDiscriminators(NewConnectionInitialReadCallback.java:169)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.NewConnectionInitialReadCallback.complete(NewConnectionInitialReadCallback.java:77)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.requestComplete(WorkQueueManager.java:516)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.attemptIO(WorkQueueManager.java:586)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.workerRun(WorkQueueManager.java:970)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.tcpchannel.internal.WorkQueueManager$Worker.run(WorkQueueManager.java:1059)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at com.ibm.ws.threading.internal.ExecutorServiceImpl$RunnableWrapper.run(ExecutorServiceImpl.java:280)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[2/28/24, 9:14:48:522 WEST] 00000038 SystemErr                                                    R 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2/28/24, 9:14:48:538 WEST] 00000038 com.ibm.ws.webcontainer.util.ApplicationErrorUtils           E SRVE0777E: Exception thrown by application class 'oumnou.lp.dataBasee.Database.emailExists:98'
+java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+	at oumnou.lp.dataBasee.Database.emailExists(Database.java:98)
+	at oumnou.lp.dataBasee.Database.addUser(Database.java:60)
+	at oumnou.lp.HelloServlet.doPost(HelloServlet.java:112)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:547)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614)
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service(ServletWrapper.java:1260)
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:748)
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:445)
+	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters(WebAppFilterManager.java:1361)
+	at com.ibm.ws.webcontainer.webapp.WebApp.handleRequest(WebApp.java:5076)
+	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.handleRequest(DynamicVirtualHost.java:328)
+	at com.ibm.ws.webcontainer.WebContainer.handleRequest(WebContainer.java:1038)
+	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.run(DynamicVirtualHost.java:293)
+	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink$TaskWrapper.run(HttpDispatcherLink.java:1260)
+	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.wrapHandlerAndExecute(HttpDispatcherLink.java:476)
+	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.ready(HttpDispatcherLink.java:435)
+	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleDiscrimination(HttpInboundLink.java:569)
+	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleNewRequest(HttpInboundLink.java:503)
+	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.processRequest(HttpInboundLink.java:363)
+	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.ready(HttpInboundLink.java:330)
+	at com.ibm.ws.tcpchannel.internal.NewConnectionInitialReadCallback.sendToDiscriminators(NewConnectionInitialReadCallback.java:169)
+	at com.ibm.ws.tcpchannel.internal.NewConnectionInitialReadCallback.complete(NewConnectionInitialReadCallback.java:77)
+	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.requestComplete(WorkQueueManager.java:516)
+	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.attemptIO(WorkQueueManager.java:586)
+	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.workerRun(WorkQueueManager.java:970)
+	at com.ibm.ws.tcpchannel.internal.WorkQueueManager$Worker.run(WorkQueueManager.java:1059)
+	at com.ibm.ws.threading.internal.ExecutorServiceImpl$RunnableWrapper.run(ExecutorServiceImpl.java:280)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[2/28/24, 9:14:48:902 WEST] 00000038 com.ibm.ws.logging.internal.impl.IncidentImpl                I FFDC1015I: An FFDC Incident has been created: "java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105" at ffdc_24.02.28_09.14.48.0.log
+[2/28/24, 9:14:48:927 WEST] 00000038 com.ibm.ws.webcontainer.webapp                               E SRVE0315E: An exception occurred: java.lang.Throwable: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+	at com.ibm.ws.webcontainer.webapp.WebApp.handleRequest(WebApp.java:5134)
+	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.handleRequest(DynamicVirtualHost.java:328)
+	at com.ibm.ws.webcontainer.WebContainer.handleRequest(WebContainer.java:1038)
+	at com.ibm.ws.webcontainer.osgi.DynamicVirtualHost$2.run(DynamicVirtualHost.java:293)
+	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink$TaskWrapper.run(HttpDispatcherLink.java:1260)
+	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.wrapHandlerAndExecute(HttpDispatcherLink.java:476)
+	at com.ibm.ws.http.dispatcher.internal.channel.HttpDispatcherLink.ready(HttpDispatcherLink.java:435)
+	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleDiscrimination(HttpInboundLink.java:569)
+	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.handleNewRequest(HttpInboundLink.java:503)
+	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.processRequest(HttpInboundLink.java:363)
+	at com.ibm.ws.http.channel.internal.inbound.HttpInboundLink.ready(HttpInboundLink.java:330)
+	at com.ibm.ws.tcpchannel.internal.NewConnectionInitialReadCallback.sendToDiscriminators(NewConnectionInitialReadCallback.java:169)
+	at com.ibm.ws.tcpchannel.internal.NewConnectionInitialReadCallback.complete(NewConnectionInitialReadCallback.java:77)
+	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.requestComplete(WorkQueueManager.java:516)
+	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.attemptIO(WorkQueueManager.java:586)
+	at com.ibm.ws.tcpchannel.internal.WorkQueueManager.workerRun(WorkQueueManager.java:970)
+	at com.ibm.ws.tcpchannel.internal.WorkQueueManager$Worker.run(WorkQueueManager.java:1059)
+	at com.ibm.ws.threading.internal.ExecutorServiceImpl$RunnableWrapper.run(ExecutorServiceImpl.java:280)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+	at oumnou.lp.dataBasee.Database.emailExists(Database.java:98)
+	at oumnou.lp.dataBasee.Database.addUser(Database.java:60)
+	at oumnou.lp.HelloServlet.doPost(HelloServlet.java:112)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:547)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614)
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.service(ServletWrapper.java:1260)
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:748)
+	at com.ibm.ws.webcontainer.servlet.ServletWrapper.handleRequest(ServletWrapper.java:445)
+	at com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters(WebAppFilterManager.java:1361)
+	at com.ibm.ws.webcontainer.webapp.WebApp.handleRequest(WebApp.java:5076)
+	... 20 more
+
+[2/28/24, 9:14:51:974 WEST] 00000049 com.ibm.ws.webcontainer.servlet                              I SRVE0242I: [project] [/project] [/signup.jsp]: Initialization successful.
+[2/28/24, 9:15:24:761 WEST] 00000041 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:15:24:762 WEST] 00000041 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [project] [/project] [oumnou.lp.HelloServlet]: Destroy successful.
+[2/28/24, 9:15:24:762 WEST] 00000041 com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [project] [/project] [/signup.jsp]: Destroy successful.
+[2/28/24, 9:15:24:766 WEST] 00000041 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:15:24:772 WEST] 00000041 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:15:24:772 WEST] 00000041 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:15:24:788 WEST] 0000003e com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:15:25:071 WEST] 00000041 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:15:25:072 WEST] 00000041 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:15:25:072 WEST] 00000041 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:15:25:072 WEST] 00000044 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:15:25:072 WEST] 00000044 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:15:25:091 WEST] 0000004b com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:15:25:107 WEST] 00000044 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.335 seconds.
+[2/28/24, 9:15:28:784 WEST] 00000038 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:15:28:788 WEST] 00000038 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:15:28:793 WEST] 00000038 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:15:28:794 WEST] 00000038 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:15:28:803 WEST] 0000004c com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:15:29:085 WEST] 00000038 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:15:29:085 WEST] 00000038 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:15:29:086 WEST] 00000038 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:15:29:086 WEST] 00000034 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:15:29:086 WEST] 00000034 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:15:29:107 WEST] 00000038 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:15:29:120 WEST] 00000034 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.326 seconds.
+[2/28/24, 9:15:32:812 WEST] 00000046 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:15:32:817 WEST] 00000046 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:15:32:824 WEST] 00000046 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:15:32:825 WEST] 00000046 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:15:32:834 WEST] 00000049 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:15:33:122 WEST] 00000046 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:15:33:122 WEST] 00000046 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:15:33:122 WEST] 00000046 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:15:33:123 WEST] 00000045 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:15:33:123 WEST] 00000045 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:15:33:142 WEST] 0000004c com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:15:33:162 WEST] 00000045 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.338 seconds.
+[2/28/24, 9:17:15:330 WEST] 0000004b com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:17:15:337 WEST] 0000004b com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:17:15:348 WEST] 0000004b com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:17:15:349 WEST] 0000004b bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:17:15:376 WEST] 00000056 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:17:15:680 WEST] 0000004b com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:17:15:681 WEST] 0000004b com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:17:15:681 WEST] 0000004b com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:17:15:682 WEST] 00000048 com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:17:15:682 WEST] 00000048 com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:17:15:731 WEST] 0000004b com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:17:15:736 WEST] 00000048 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.387 seconds.
+[2/28/24, 9:17:18:372 WEST] 00000045 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:17:18:379 WEST] 00000045 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:17:18:409 WEST] 00000045 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application project.
+[2/28/24, 9:17:18:410 WEST] 00000045 bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: The project application is using the loose application definition at the D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\apps\project.war.xml location.
+[2/28/24, 9:17:18:417 WEST] 0000004a com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:17:18:737 WEST] 00000045 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello Servlet.
+[2/28/24, 9:17:18:737 WEST] 00000045 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello Servlet has been bound to default_host.
+[2/28/24, 9:17:18:737 WEST] 00000045 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://localhost:9010/project/
+[2/28/24, 9:17:18:738 WEST] 0000004a com.ibm.ws.session.WASSessionCore                            I SESN0176I: A new session context will be created for application key default_host/project
+[2/28/24, 9:17:18:738 WEST] 0000004a com.ibm.ws.util                                              I SESN0172I: The session manager is using the Java default SecureRandom implementation for session ID generation.
+[2/28/24, 9:17:18:752 WEST] 00000058 com.ibm.ws.webcontainer.osgi.mbeans.PluginGenerator          I SRVE9103I: A configuration file for a web server plugin was automatically generated for this server at D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\state\plugin-cfg.xml.
+[2/28/24, 9:17:18:776 WEST] 0000004a com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: The application project updated in 0.367 seconds.
+[2/28/24, 9:17:26:299 WEST] 00000024 com.ibm.ws.kernel.launch.internal.ServerCommandListener      A CWWKE0055I: Server shutdown requested on Wednesday, February 28, 2024 at 9:17 AM. The server projectServer is shutting down.
+[2/28/24, 9:17:26:304 WEST] 00000063 com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[2/28/24, 9:17:26:311 WEST] 00000049 com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0220I: TCP Channel defaultHttpEndpoint has stopped listening for requests on host kubernetes.docker.internal  (IPv4: 127.0.0.1) port 9010.
+[2/28/24, 9:17:26:312 WEST] 00000049 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Web application removed (default_host): http://localhost:9010/project/
+[2/28/24, 9:17:27:316 WEST] 00000063 com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Server quiesce complete.
+[2/28/24, 9:17:27:346 WEST] 00000057 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: The application project has stopped successfully.
+[2/28/24, 9:17:27:403 WEST] 00000063 com.ibm.tx.jta.impl.FailureScopeController                   A WTRN0105I: The transaction service has shutdown successfully with no transactions requiring recovery.
+[2/28/24, 9:17:27:619 WEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server projectServer stopped after 3 minutes, 42.777 seconds.

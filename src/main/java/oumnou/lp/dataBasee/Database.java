@@ -53,7 +53,7 @@ public class Database {
         return null;
     }
     public  User addUser(HttpServletRequest request)   {
-        String query = "INSERT INTO user_accounts (email, password, first_name, last_name, username) VALUES (?, ?, ?, ?, ?)";
+        String query = "INSERT INTO user_accounts(email, password, first_name, last_name, username) VALUES (?,?,?,?,?)";
         
         String email = request.getParameter("email");
         try {
@@ -69,9 +69,6 @@ public class Database {
             String username = request.getParameter("username");
 
             
-            
-
-
             PreparedStatement statement = connection.prepareStatement(query);
                 statement.setString(1, email);
                 statement.setString(2, password);
@@ -89,13 +86,14 @@ public class Database {
 
    }
         } catch (SQLException e) {
+            System.err.println();
             return null;
 
         }
       
 }    
      boolean emailExists(String email) throws SQLException {
-        String query = "SELECT * FROM user_accounts where email = ?";
+        String query = "SELECT * FROM user_accounts WHERE email = ?";
         Connection connection = DatabaseConnection.getConnection();
 
         PreparedStatement statement = connection.prepareStatement(query);

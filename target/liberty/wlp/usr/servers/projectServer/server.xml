@@ -1,18 +1,4 @@
-<!-- 
- (C) Copyright IBM Corporation 2017.
 
- Licensed under the Apache License, Version 2.0 (the "License");
- you may not use this file except in compliance with the License.
- You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
- Unless required by applicable law or agreed to in writing, software
- distributed under the License is distributed on an "AS IS" BASIS,
- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- See the License for the specific language governing permissions and
- limitations under the License.
--->
 <server description="Sample Servlet server">
     <featureManager>
     
@@ -27,7 +13,9 @@
     </library>
     <dataSource jndiName="jdbc/myDB">
         <jdbcDriver libraryRef="jdbcLib"/>
-        <properties serverName="localhost" url="jdbc:oracle:thin:@android:1521:xe" portNumber="1521" databaseName="user_accounts" user="system" password="hello"/>
+        <properties serverName="localhost" 
+        url="jdbc:mysql://localhost:3306/user_accounts"
+         portNumber="3306" databaseName="user_accounts" user="root" password="your_password"/>
     </dataSource>
             
     <httpEndpoint httpPort="9010" httpsPort="9443" id="defaultHttpEndpoint" />

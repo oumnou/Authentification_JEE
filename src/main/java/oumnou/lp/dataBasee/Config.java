@@ -1,7 +1,7 @@
 package oumnou.lp.dataBasee;
 
 public interface Config {
-    static final String USER = "system";
-    static final String URL = "jdbc:oracle:thin:@android:1521:xe";
-    static final String PASSWO = "hello";
+    static final String USER = "root";
+    static final String URL = "jdbc:mysql://localhost:3306/user_accounts";
+    static final String PASSWO = "your_password";
 }
