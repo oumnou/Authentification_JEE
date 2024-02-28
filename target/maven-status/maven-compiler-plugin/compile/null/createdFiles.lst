@@ -1,6 +1,2 @@
-oumnou\lp\dataBasee\Config.class
-oumnou\lp\model\User.class
-oumnou\lp\dataBasee\Database.class
-oumnou\lp\dataBasee\DatabaseConnection.class
-oumnou\lp\dataBasee\DatabaseQuery.class
 oumnou\lp\HelloServlet.class
+oumnou\lp\model\User.class

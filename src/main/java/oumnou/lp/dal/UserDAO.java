@@ -1,4 +1,4 @@
-package oumnou.lp.dataBasee;
+package oumnou.lp.dal;
 
 
 
@@ -11,12 +11,12 @@ import jakarta.servlet.http.HttpServletRequest;
 
 import oumnou.lp.model.User;
 
-public class Database {
+public class UserDAO {
     
     
     Connection connection ;
 
-    public Database(Connection connection){
+    public UserDAO(Connection connection){
         this.connection = connection;
     }
 
@@ -94,7 +94,6 @@ public class Database {
 }    
      boolean emailExists(String email) throws SQLException {
         String query = "SELECT * FROM user_accounts WHERE email = ?";
-        Connection connection = DatabaseConnection.getConnection();
 
         PreparedStatement statement = connection.prepareStatement(query);
         statement.setString(1, email);

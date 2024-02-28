@@ -14,8 +14,7 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
-
-import oumnou.lp.dataBasee.Database;
+import oumnou.lp.dal.UserDAO;
 import oumnou.lp.model.User;
 
 
@@ -27,14 +26,14 @@ public class HelloServlet extends HttpServlet {
     @Resource(lookup = "jdbc/myDB")
     private DataSource dataSource;
 
-    Database database;
+    UserDAO userDAO;
 
 
     
     @Override
     public void init() throws ServletException {
         try {
-            database = new Database(dataSource.getConnection());
+            userDAO = new UserDAO(dataSource.getConnection());
         } catch (SQLException e) {
             e.printStackTrace();
         }
@@ -46,6 +45,7 @@ public class HelloServlet extends HttpServlet {
      * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
      */
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        
         HttpSession session = request.getSession(false);
         if (session != null) {
             session.invalidate(); // Invalidate the session
@@ -68,17 +68,15 @@ public class HelloServlet extends HttpServlet {
     
     
     }
-    
-         
-    
+               
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String action = request.getParameter("action"); 
         HttpSession session = request.getSession();
         
-        // Ensure database object is initialized
-        if (database == null) {
+        // Ensure userDAO object is initialized
+        if (userDAO == null) {
             try {
-                database = new Database(dataSource.getConnection());
+                userDAO = new UserDAO(dataSource.getConnection());
             } catch (SQLException e) {
                 e.printStackTrace();
                 // Handle the exception appropriately
@@ -86,7 +84,7 @@ public class HelloServlet extends HttpServlet {
         }
         switch (action) {
             case "login":
-                User userLogin = database.getUser(request);
+                User userLogin = userDAO.getUser(request);
                 if (userLogin != null) {
                     session.setAttribute("user", userLogin);
                     
@@ -103,13 +101,12 @@ public class HelloServlet extends HttpServlet {
                 
             case "signup":
                 try {
-                    database = new Database(dataSource.getConnection());
+                    userDAO = new UserDAO(dataSource.getConnection());
                 } catch (SQLException e) {
-                    // TODO Auto-generated catch block
                     e.printStackTrace();
                 }
 
-                User userSignup =  database.addUser(request);
+                User userSignup =  userDAO.addUser(request);
                 if (userSignup != null) {
                     session.setAttribute("userfromLogin", userSignup);
                     response.sendRedirect("index.jsp");

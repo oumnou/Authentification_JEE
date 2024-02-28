@@ -1,0 +1,9 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      9  2/28/24, 9:54:00:449 WEST   2/28/24, 9:54:36:406 WEST  java.lang.NoClassDefFoundError com.ibm.ws.injectionengine.InjectionProcessorManager.getAllDeclaredFields 249
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.28_09.54.00.0.log
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.28_09.54.36.0.log
+     1      9  2/28/24, 9:54:00:504 WEST   2/28/24, 9:54:36:435 WEST  org.jboss.weld.resources.spi.ResourceLoadingException com.ibm.ws.cdi.impl.weld.BeanDeploymentArchiveImpl 987
+                                                                            - D:\mine\JEE\authentication\project\target\liberty\wlp\usr\servers\projectServer\logs\ffdc\ffdc_24.02.28_09.54.00.1.log
+------+------+---------------------------+---------------------------+---------------------------
